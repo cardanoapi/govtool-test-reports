@@ -1,0 +1,1 @@
+faucet response: {"amount":{"lovelace":10000200000},"txid":"f4a3ebeda120e5b85197d958e7399c3e4643a33122435c65f8a85691e4da8ab9","txin":"09c70333c5ceec2540adef09f4cd86ddd1850cb204ff9b50fe27a4e5e8296d68#70"}
