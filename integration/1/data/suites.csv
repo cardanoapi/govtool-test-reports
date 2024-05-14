@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Apr 17 05:14:01 GMT 2024","Wed Apr 17 05:14:02 GMT 2024","1646","chrome","example.spec.ts","Example test specs","","","has title",""
-"passed","Wed Apr 17 05:14:01 GMT 2024","Wed Apr 17 05:14:03 GMT 2024","2091","chrome","example.spec.ts","Example test specs","","","get started link",""
