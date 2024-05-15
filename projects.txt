@@ -1,4 +1,2 @@
-backend
-integration
 govtool-frontend
 govtool-backend
