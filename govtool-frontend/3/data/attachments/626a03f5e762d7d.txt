@@ -1,0 +1,6 @@
+ℹ Submitting tx: {"lock_id":"6d6abc783d0d7f2642fb3ca1dfc9e4e4fab181953be6b8a3f5c62ebc2c6fdae2","tx":{"outputs":[{"address":"addr_test1qrxaa8hhm47hu73zd2wjq8yhzglz247vjv96g7tdthv5p4rg9tn4z8qfsud0end8wzezpvqfvlkejt3q026r0pa0rtlq45s0c4","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582011abec096ef0ea7edbeeee01a1a3f0e9f24a7225c2ee99687fb328146fe85ba6"},"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"],"changeAddress":"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"}}
+✔ Tx submitted: f9da42eefa732484df251cbeacb636bbbb768641666bbaa43fbd04c7c782b528
+ℹ Waiting for tx completion: f9da42eefa732484df251cbeacb636bbbb768641666bbaa43fbd04c7c782b528
+✔ Tx completed
+✔ Uploaded Elijah.jsonld metadata to bucket
+ℹ Waiting for tx completion: 74d57fb469fe55c395179c18bc9b810d9258edc6c4ad383adf38bcfeaf9222d6
