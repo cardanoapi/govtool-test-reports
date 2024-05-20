@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"08db144277ec4576188b4bb28dedc02802a772b9a5c59dcf5f682eeb575d5c8d","tx":{"outputs":[{"address":"addr_test1qp8h8aj5shgh8z0estyfn3d0lmnd8j3py89ytnyzsrn6qcvdaz3h0utccepm3qh59tjtc2zht06440gngmgf6tmc9tjsvah29m","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582011abec096ef0ea7edbeeee01a1a3f0e9f24a7225c2ee99687fb328146fe85ba6"},"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"],"changeAddress":"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"}}
+✔ Tx submitted: b7a5f328244071429ccd85341c9c15027fa38824385b099a161a762879241a97
+ℹ Waiting for tx completion: b7a5f328244071429ccd85341c9c15027fa38824385b099a161a762879241a97
+✔ Tx completed
+✔ Uploaded Scottie.jsonld metadata to bucket
+ℹ Waiting for tx completion: 7c29d3a4ebe13bf4bd9bf7ecdf66d2a9c5e71b88be9372fc839adb552c43c220
+✔ Tx completed
