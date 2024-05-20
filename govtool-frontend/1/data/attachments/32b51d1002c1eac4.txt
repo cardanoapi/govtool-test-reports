@@ -1,7 +1,0 @@
-ℹ Submitting tx: {"lock_id":"055c2cfff0cb3c58a38b0ccc0937852717c9c9a7e551326985915e76877d756b","tx":{"outputs":[{"address":"addr_test1qqt6nnff448nmqswmh2rx3ylk79mj59wc8qu092r7ethyqygs9sly8g4alpl3wpr03rpxcv8s4z8rq5h55s8z8uk5h5qcxl2su","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582011abec096ef0ea7edbeeee01a1a3f0e9f24a7225c2ee99687fb328146fe85ba6"},"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"],"changeAddress":"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"}}
-✔ Tx submitted: 9de30b58e41d9ae8fa844ebbd12ec667ce87ef860f562cab8b590cef6ff68dc2
-ℹ Waiting for tx completion: 9de30b58e41d9ae8fa844ebbd12ec667ce87ef860f562cab8b590cef6ff68dc2
-✔ Tx completed
-✔ Uploaded Weston.jsonld metadata to bucket
-ℹ Waiting for tx completion: fc824550688a1cf3f995702d2f11ec7bf4dc3a39f0ee719f25dcf3d25ee652ff
-✔ Tx completed
