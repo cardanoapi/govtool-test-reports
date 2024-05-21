@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"7371af2e2f6ede3032d541738203d2604ccedef72bb12ab0586803900930a6da","tx":{"outputs":[{"address":"addr_test1qznenpvc44x42v5xevskt8cdjgtl96nd9tpcv989f60kmt0luuhnx09sf6fhdyzywjyxqlxwytwzm9y5wmwnmgwwsh5sl9c68y","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820f3447cd5319e24b04ee5d3ba02456ee3c28ea60371158352749e0b6949957699"},"addr_test1qrzd2jqplusgz9lw29d39w98exqdh5z4av3xqp50s5zzyzkpnmv2axqtgfrpp678dawhnlc3mvmmt96rrpldqpys7yfq9xhpx2"],"changeAddress":"addr_test1qrzd2jqplusgz9lw29d39w98exqdh5z4av3xqp50s5zzyzkpnmv2axqtgfrpp678dawhnlc3mvmmt96rrpldqpys7yfq9xhpx2"}}
+✔ Tx submitted: 19a2a6116febd011604e67172ab069ab16d552a4e1dfb84ac66109f2bb8df962
+ℹ Waiting for tx completion: 19a2a6116febd011604e67172ab069ab16d552a4e1dfb84ac66109f2bb8df962
+✔ Tx completed
+✔ Uploaded Kurtis.jsonld metadata to bucket
+ℹ Waiting for tx completion: 6f1e56f94f03f5275dff5a808fe0dc96e10bf984674b8305b8c86358a5ba5d17
+✔ Tx completed
