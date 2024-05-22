@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"3371efe698dfe6e0da2b84efcf3ae0986cab49c8efad34ef2373751e8808f334","tx":{"outputs":[{"address":"addr_test1qpa0lr3aulrq2w7sp9flvkj6we0zd556k5p5z5pxvrdzmm984nc5n07ygec7jypnrhva2z8ardq4zqyhzhd54sjk4rusarleyn","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820eca26da6e4f9105791986f4b39e8d3a4db03ebd702ddfe66f50644af9677504b"},"addr_test1qpx2l7c77um4f5jq0gqy0p7hmtrt8hc73wjlshpjfqzqepn8zsdqe995uk5c4yj9cy6wlwt4dvxaly2v6m9het8665pqdhcl24"],"changeAddress":"addr_test1qpx2l7c77um4f5jq0gqy0p7hmtrt8hc73wjlshpjfqzqepn8zsdqe995uk5c4yj9cy6wlwt4dvxaly2v6m9het8665pqdhcl24"}}
+✔ Tx submitted: ba535d10f498241b350eb87c049978d25560e8053e5bcfa90d9494f1291280d0
+ℹ Waiting for tx completion: ba535d10f498241b350eb87c049978d25560e8053e5bcfa90d9494f1291280d0
+✔ Tx completed
+✔ Uploaded Jewel.jsonld metadata to bucket
+ℹ Waiting for tx completion: c93d804863048bdcb78754c01b5a71ada6d23d94ab91a2b63a5db728fb0de336
+✔ Tx completed

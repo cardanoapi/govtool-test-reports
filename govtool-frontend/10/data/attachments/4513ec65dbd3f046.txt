@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"457ea8139dc2696a32acc67f6da9839d4484e0f443e7bf9dc6c2b58f5c8088d0","tx":{"outputs":[{"address":"addr_test1qpw59nhkgglk8kr0scpl7hzyyut00ktk6reyaf72ps7338urj3mvvkpdl8z7f6unhqhse0der9yl88zj3u3xpgms9q4s8u4kn0","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820eca26da6e4f9105791986f4b39e8d3a4db03ebd702ddfe66f50644af9677504b"},"addr_test1qpx2l7c77um4f5jq0gqy0p7hmtrt8hc73wjlshpjfqzqepn8zsdqe995uk5c4yj9cy6wlwt4dvxaly2v6m9het8665pqdhcl24"],"changeAddress":"addr_test1qpx2l7c77um4f5jq0gqy0p7hmtrt8hc73wjlshpjfqzqepn8zsdqe995uk5c4yj9cy6wlwt4dvxaly2v6m9het8665pqdhcl24"}}
+✔ Tx submitted: 0a2380f0d708d186931e84aa31902e30b301311cfabd5c89c08c91af2208197f
+ℹ Waiting for tx completion: 0a2380f0d708d186931e84aa31902e30b301311cfabd5c89c08c91af2208197f
+✔ Tx completed
+✔ Uploaded Kayden.jsonld metadata to bucket
+ℹ Waiting for tx completion: 840923f60750954afcc93a7be4accf0dcfb9100e1d676e0d142d82e212de3ff0
+✔ Tx completed
