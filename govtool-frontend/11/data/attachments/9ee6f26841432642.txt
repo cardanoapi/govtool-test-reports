@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"67f016f923f6d6a7cc723273006df6e20097a31a11fc692a2313e7206a67a1d6","tx":{"outputs":[{"address":"addr_test1qr7a7gxa6vnptdlgdmh22fs7xw6xnpealr0hjr7yqkzx09enxc4d0v7p94f9fulrhmyd0mwmwmpes9g9tq9r8tptmmqqm0twax","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820c0fcfb15fcd169e5dcc5186cad3039289ba829032d5c85447631fdbc8187d5b2"},"addr_test1qp9fsdhf8elfv903n5z3x79jnfmpp7f97urjnn2crg2qswrkxvcr8sfd7l2r878fxtgx7xu78epshhde7yagacddj8zs465p8j"],"changeAddress":"addr_test1qp9fsdhf8elfv903n5z3x79jnfmpp7f97urjnn2crg2qswrkxvcr8sfd7l2r878fxtgx7xu78epshhde7yagacddj8zs465p8j"}}
+✔ Tx submitted: ddf0cc21116dcf309768c13d3420334b1c97020d4b9740d87195aec1afed6e2c
+ℹ Waiting for tx completion: ddf0cc21116dcf309768c13d3420334b1c97020d4b9740d87195aec1afed6e2c
+✔ Tx completed
+✔ Uploaded Doyle.jsonld metadata to bucket
+ℹ Waiting for tx completion: 684ec3969e921ab35c5a66cf03c65b58f22b3bece8bfb6e2455590e4a6365266
+✔ Tx completed
