@@ -1,0 +1,3 @@
+✔ Uploaded Pete_Gibson38.jsonld metadata to bucket
+ℹ Waiting for tx completion: a756dceb7ceef0582a2b01d954e8433832301921a1f4768942177b8b2cbf092a
+✔ Tx completed
