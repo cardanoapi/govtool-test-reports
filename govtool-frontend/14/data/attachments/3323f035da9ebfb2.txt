@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"88bc264ecb3fd91d9d7c20ef8cadc3f09d2bba854aae5e08476145af22333673","tx":{"outputs":[{"address":"addr_test1qr9er5w5t7ufnul7paljrcmywr5xt6ms5swlr4cvrx8xm3jjpqgvneqxkctlz5fqmf8wxlprknaqk7gm69ddruvhzvvspvfj7r","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58208c80febfb71a5771142ae979375c271e505b15b125eb1b579fcf87da2d08a710"},"addr_test1qrgpjmw9rs2ag052qezsfqg4603yandk99mk7gmc0wj638cmn282qlzch7lwt8a5rafue838dcwfdpvw8kz2pgcvkmuqvw2h0a"],"changeAddress":"addr_test1qrgpjmw9rs2ag052qezsfqg4603yandk99mk7gmc0wj638cmn282qlzch7lwt8a5rafue838dcwfdpvw8kz2pgcvkmuqvw2h0a"}}
+✔ Tx submitted: 616d1fb048da6b6b30c6558d3d832eb4336b7c7fe13761873e78c8455cc076bd
+ℹ Waiting for tx completion: 616d1fb048da6b6b30c6558d3d832eb4336b7c7fe13761873e78c8455cc076bd
+✔ Tx completed
+✔ Uploaded Derrick.jsonld metadata to bucket
+ℹ Waiting for tx completion: 9b26a56a80363cf05d30fec3953cfb448e0be3c96528edf6ff46b237c206d6d8
+✔ Tx completed

@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"2ca83e527b0dbf8d8f352a86f34021a7c7d49b271d0f2ed556ccb3d62384a289","tx":{"outputs":[{"address":"addr_test1qz9883tlwhazntcquekhahma6gu9ymh5wehzyfvslfxl2zpf20fjud38nlpxf5knkc64nte8hkdhukjr4u5sdjj3z44seetzp8","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58208c80febfb71a5771142ae979375c271e505b15b125eb1b579fcf87da2d08a710"},"addr_test1qrgpjmw9rs2ag052qezsfqg4603yandk99mk7gmc0wj638cmn282qlzch7lwt8a5rafue838dcwfdpvw8kz2pgcvkmuqvw2h0a"],"changeAddress":"addr_test1qrgpjmw9rs2ag052qezsfqg4603yandk99mk7gmc0wj638cmn282qlzch7lwt8a5rafue838dcwfdpvw8kz2pgcvkmuqvw2h0a"}}
+✔ Tx submitted: 164e8e5ed3edb4e564256da7ca41552b7a5c00d53dd773c2aca703a27fd30b4d
+ℹ Waiting for tx completion: 164e8e5ed3edb4e564256da7ca41552b7a5c00d53dd773c2aca703a27fd30b4d
+✔ Tx completed
+✔ Uploaded Hester.jsonld metadata to bucket
+ℹ Waiting for tx completion: 43ace691b985f1e9d56248a19afbf9a14c3a65d6a3270659dcd910ab36e7fc97
+✔ Tx completed

@@ -1,0 +1,13 @@
+ℹ Submitting tx: {"lock_id":"424a5a974adc37bf3f02751752ca582fc8de0c53b5f272eb1996060c2b15d1fb","tx":{"certificates":[{"type":"registerdrep","key":"5fe871e5211145f40010c09795746a337e15bf6e36c82662c2c19488","anchor":{"url":"https://bit.ly/3zCH2HL","dataHash":"1111111111111111111111111111111111111111111111111111111111111111"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58200844696b675f4615fb86d7a3ebae094ccede583af3da7d025e808181500a2a98"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58208c80febfb71a5771142ae979375c271e505b15b125eb1b579fcf87da2d08a710"},"addr_test1qrgpjmw9rs2ag052qezsfqg4603yandk99mk7gmc0wj638cmn282qlzch7lwt8a5rafue838dcwfdpvw8kz2pgcvkmuqvw2h0a"],"changeAddress":"addr_test1qrgpjmw9rs2ag052qezsfqg4603yandk99mk7gmc0wj638cmn282qlzch7lwt8a5rafue838dcwfdpvw8kz2pgcvkmuqvw2h0a"}}
+✔ Tx submitted: 95fafd3c5c703decf074a889de2ca6077670f28923acbb70fea96be4682a7035
+ℹ Waiting for tx completion: 95fafd3c5c703decf074a889de2ca6077670f28923acbb70fea96be4682a7035
+✔ Tx completed
+✖ Timed out 5000ms waiting for expect(locator).toBeVisible()
+
+Locator: getByTestId('drep1tl58refpz9zlgqqsczte2ar2xdlpt0mwxmyzvckzcx2gsup4kn5-delegate-button')
+Expected: visible
+Received: hidden
+Call log:
+  - expect.toBeVisible with timeout 5000ms
+  - waiting for getByTestId('drep1tl58refpz9zlgqqsczte2ar2xdlpt0mwxmyzvckzcx2gsup4kn5-delegate-button')
+

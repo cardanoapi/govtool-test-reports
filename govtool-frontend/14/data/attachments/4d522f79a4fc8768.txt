@@ -1,0 +1,3 @@
+✔ Uploaded Nichole28.jsonld metadata to bucket
+ℹ Waiting for tx completion: 533fbcf0c1e0fb0a049ec7ef9a26249ee7b4dcf6bcbe269788fd1205200cde43
+✔ Tx completed
