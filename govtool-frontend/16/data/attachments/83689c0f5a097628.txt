@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"a5cfc75169cb7bf269275fe97727b1e380cb892c870864abe637751004d188f3","tx":{"outputs":[{"address":"addr_test1qpdqchxkc572l9gkrvfenljwy92qj4vu54w052tz8g74h20slgapc3z5yttuv7hxq04tstnnw32vd0x8723werd6dsuqzxtggl","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58200aa29184549f40aab136644a34e480a14dff74465096cac8cf4cb26a724f41ac"},"addr_test1qpck97epfr374ecelarfvk2vdnt5asqws6z9pf70xex8hvc567aw4tlc0grqexp7twmtcd0vm8e69lwy2dlgyrmxhx3qmj56up"],"changeAddress":"addr_test1qpck97epfr374ecelarfvk2vdnt5asqws6z9pf70xex8hvc567aw4tlc0grqexp7twmtcd0vm8e69lwy2dlgyrmxhx3qmj56up"}}
+✔ Tx submitted: 7c2574ea034064d648af3143a5b7c52eb91a2676e48230d51fc5d45e633653bf
+ℹ Waiting for tx completion: 7c2574ea034064d648af3143a5b7c52eb91a2676e48230d51fc5d45e633653bf
+✔ Tx completed
+✔ Uploaded Giles.jsonld metadata to bucket
+ℹ Waiting for tx completion: 0a215e4a49aa73dd4cc90d4f3d651465863a3355e8933e4a4e6845e10108d47f
+✔ Tx completed

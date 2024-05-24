@@ -1,0 +1,8 @@
+ℹ Submitting tx: {"lock_id":"2d9d668857b067dc3d8ad1e122ca8f2379b365f6ec2996744335c05e2e7ec70d","tx":{"outputs":[{"address":"addr_test1qp9x9e04hmt84lxrsujhkc8t695zf9s3egs2wu5pdwh4vpwn6hlumhsm633jnsp7ckv0fgf3vv4zv2h4m088rkyn99xslgw3aw","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58200aa29184549f40aab136644a34e480a14dff74465096cac8cf4cb26a724f41ac"},"addr_test1qpck97epfr374ecelarfvk2vdnt5asqws6z9pf70xex8hvc567aw4tlc0grqexp7twmtcd0vm8e69lwy2dlgyrmxhx3qmj56up"],"changeAddress":"addr_test1qpck97epfr374ecelarfvk2vdnt5asqws6z9pf70xex8hvc567aw4tlc0grqexp7twmtcd0vm8e69lwy2dlgyrmxhx3qmj56up"}}
+✔ Tx submitted: 885006336fb81c5fd1b5bb55bf2d532c59e006593c0211a7efdca5e8e191d1db
+ℹ Waiting for tx completion: 885006336fb81c5fd1b5bb55bf2d532c59e006593c0211a7efdca5e8e191d1db
+✔ Tx completed
+✖ page.waitForEvent: Test ended.
+=========================== logs ===========================
+waiting for event "download"
+============================================================
