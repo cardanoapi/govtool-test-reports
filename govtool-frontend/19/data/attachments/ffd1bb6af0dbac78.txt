@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"1725d644c4b531027a7cb9cc9c81cd6aff8bd62e3c24853cea53c6b2fd13da25","tx":{"outputs":[{"address":"addr_test1qpppr27j0r08g8vxauv4fnfv4ja6a3jhh7xf45g7wtfuc5lxn34y48qult02vvwm0d54juhjs65l9f4dwnvst69c7yesx4kluv","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820e885f46ea9e5d80319fca180739ef4390cffed2ab676e2f61a6748d57bcd6733"},"addr_test1qpp8zvg42n0gdegtzad82ct55eheyyem2lv92x4vq6qn4wk3apzugmep4fwasevmqy2tmv2eukr5qkl92ffleexjsrcqhkem3m"],"changeAddress":"addr_test1qpp8zvg42n0gdegtzad82ct55eheyyem2lv92x4vq6qn4wk3apzugmep4fwasevmqy2tmv2eukr5qkl92ffleexjsrcqhkem3m"}}
+✔ Tx submitted: 510f4e16780b73e007ff354ec36ea96cef1e149df6f53f8cb635968544409f0e
+ℹ Waiting for tx completion: 510f4e16780b73e007ff354ec36ea96cef1e149df6f53f8cb635968544409f0e
+✔ Tx completed
+✔ Uploaded Lenny.jsonld metadata to bucket
+ℹ Waiting for tx completion: 8e127e12880fb0e835d30ed5a0b6532ebe3980eb0fb4acff2ba656e010c8f642
+✔ Tx completed

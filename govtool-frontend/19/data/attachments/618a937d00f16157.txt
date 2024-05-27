@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"fa66f66da18b45ff5b53d5eedc4b3bcbd1d65b7483ae3857f989357795efb089","tx":{"outputs":[{"address":"addr_test1qpcqqeys6qnwzlkyxshsygeqqdwj6w3eexa6lmnhwmd2zrxj08f2k5chgeucp52nn5lce07ce4eq70j80ay9hhpmj32s9lu773","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820e885f46ea9e5d80319fca180739ef4390cffed2ab676e2f61a6748d57bcd6733"},"addr_test1qpp8zvg42n0gdegtzad82ct55eheyyem2lv92x4vq6qn4wk3apzugmep4fwasevmqy2tmv2eukr5qkl92ffleexjsrcqhkem3m"],"changeAddress":"addr_test1qpp8zvg42n0gdegtzad82ct55eheyyem2lv92x4vq6qn4wk3apzugmep4fwasevmqy2tmv2eukr5qkl92ffleexjsrcqhkem3m"}}
+✔ Tx submitted: ae9c837a93e048c342d0cebf5d4923b91269656ae3d2bca93db9e6633367d75a
+ℹ Waiting for tx completion: ae9c837a93e048c342d0cebf5d4923b91269656ae3d2bca93db9e6633367d75a
+✔ Tx completed
+✔ Uploaded Claire.jsonld metadata to bucket
+ℹ Waiting for tx completion: 4913dc002c570ad769294f7cdc40e7cc4b8bdca24e651e688e80acf8b23f64df
+✔ Tx completed
