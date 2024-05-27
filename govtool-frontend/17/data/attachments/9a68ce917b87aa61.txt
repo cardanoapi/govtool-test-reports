@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"20a54cf37c4e6a55537672439f98803e57193fd8c6697e16a55420acb743717f","tx":{"outputs":[{"address":"addr_test1qqfyt3runuyswt95x9qpdpzj6wls9p2xqn03z7yz9n58yq30qcuf8tpt4mgtj2drtqhjpkwx9sfnmu8d68yuax0grd2q2najl6","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820d68b122c16aae7ae645c1800368b1e43a744498745e3322bd05ddbcce5320a89"},"addr_test1qq5vwxwg3erzu00fe3a4nct0kj4cvnunqtn90hjtfg5j3f2l7sn8wfuzjvs7pu9ql6lqzkng5dacjpdfts5sqcks507q6hc2xs"],"changeAddress":"addr_test1qq5vwxwg3erzu00fe3a4nct0kj4cvnunqtn90hjtfg5j3f2l7sn8wfuzjvs7pu9ql6lqzkng5dacjpdfts5sqcks507q6hc2xs"}}
+✔ Tx submitted: 3f6e56968c9c972971f104102a8b6c099b6498faa4ba569206b2309027804ea6
+ℹ Waiting for tx completion: 3f6e56968c9c972971f104102a8b6c099b6498faa4ba569206b2309027804ea6
+✔ Tx completed
+✔ Uploaded Felton.jsonld metadata to bucket
+ℹ Waiting for tx completion: bb07864150d2a1994e2fc179ebb17a4c2a918b2b9c87d823597d5c08f2ecfd9f
+✔ Tx completed
