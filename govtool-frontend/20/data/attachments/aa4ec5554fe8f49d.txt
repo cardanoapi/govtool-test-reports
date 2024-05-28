@@ -1,0 +1,2 @@
+✔ Uploaded Vote_Context.jsonld metadata to bucket
+ℹ Waiting for tx completion: 24e3a841f5d5c407852e47b8fdc44d28d4ce7d2e962fe1341f5eb9fda05b08ea
