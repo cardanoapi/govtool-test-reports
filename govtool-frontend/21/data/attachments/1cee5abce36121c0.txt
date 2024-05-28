@@ -1,0 +1,3 @@
+✔ Uploaded Damaris_Kub.jsonld metadata to bucket
+ℹ Waiting for tx completion: acfe4a735168c71cabf59b3e97cc8f7469d0a9dfdf75911f9fab3ea4c3ca6c0f
+✔ Tx completed
