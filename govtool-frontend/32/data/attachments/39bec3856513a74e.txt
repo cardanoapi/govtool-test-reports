@@ -1,0 +1,3 @@
+✔ Uploaded Ted90.jsonld metadata to bucket
+ℹ Waiting for tx completion: b1a123eef93b669baea2a5063ccc4d0ec6e484004e0f2ed689e657c67bba53b7
+✔ Tx completed
