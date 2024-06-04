@@ -1,0 +1,3 @@
+✔ Uploaded Hobart36.jsonld metadata to bucket
+ℹ Waiting for tx completion: 86e155c81c0a3503bad3755b46560fde7dd98837629ba59ca6fe2df2e82f7cb3
+✔ Tx completed
