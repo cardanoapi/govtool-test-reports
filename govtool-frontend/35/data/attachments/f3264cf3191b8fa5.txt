@@ -1,0 +1,9 @@
+✔ Uploaded Corrine.jsonld metadata to bucket
+ℹ Waiting for tx completion: a72e3330a2aa238804b52a61d07d1aa474bb665ac1c18febc1844a28b5a48086
+✖ expect(received).toBeGreaterThan(expected)
+
+Expected: > 0
+Received:   0
+
+Call Log:
+- Test timeout of 30000ms exceeded

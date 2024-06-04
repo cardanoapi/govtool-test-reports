@@ -1,0 +1,3 @@
+✔ Uploaded Billie.Brakus.jsonld metadata to bucket
+ℹ Waiting for tx completion: c16c749dcc93e739f83cabb2b664ba803e9f5ac76c07eeeb98da81e5a3e9a6e4
+✔ Tx completed
