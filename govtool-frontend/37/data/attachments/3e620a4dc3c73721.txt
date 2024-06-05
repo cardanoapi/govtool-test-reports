@@ -1,0 +1,9 @@
+✖ locator.click: Test ended.
+Call log:
+  - waiting for getByTestId('continue-button')
+  -   locator resolved to <button tabindex="0" type="button" data-testid="continue…>…</button>
+  - attempting click action
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+
