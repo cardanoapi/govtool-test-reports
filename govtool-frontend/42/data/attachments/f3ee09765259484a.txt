@@ -1,0 +1,3 @@
+✔ Uploaded Hayley.jsonld metadata to bucket
+ℹ Waiting for tx completion: 8390919cfc82a2802ca8e74da09411ba9b199da329356a10eb37eceede26632f
+✔ Tx completed
