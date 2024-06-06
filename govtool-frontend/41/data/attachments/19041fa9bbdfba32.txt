@@ -1,0 +1,59 @@
+ℹ Waiting for tx completion: b9bf5636653e1111a2a4bb9c9f47d5cddf2631e3c5943c43ecc4421b76bd6069
+✔ Tx completed
+✖ Timed out 20000ms waiting for expect(locator).not.toBeVisible()
+
+Locator: getByText('In Progress', { exact: true }).first()
+Expected: not visible
+Received: visible
+Call log:
+  - expect.not.toBeVisible with timeout 20000ms
+  - waiting for getByText('In Progress', { exact: true }).first()
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+  -   locator resolved to <span class="MuiChip-label MuiChip-labelMedium css-14v…>In Progress</span>
+  -   unexpected value "visible"
+
