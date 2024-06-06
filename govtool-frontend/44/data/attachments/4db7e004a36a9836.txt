@@ -1,0 +1,9 @@
+✖ locator.click: Test ended.
+Call log:
+  - waiting for getByTestId('yes-radio')
+  -   locator resolved to <div data-testid="yes-radio" class="MuiBox-root css-1…>…</div>
+  - attempting click action
+  -   waiting for element to be visible, enabled and stable
+  -   element is visible, enabled and stable
+  -   scrolling into view if needed
+
