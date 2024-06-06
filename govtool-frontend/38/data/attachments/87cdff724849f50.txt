@@ -1,0 +1,3 @@
+✔ Uploaded Beaulah.jsonld metadata to bucket
+ℹ Waiting for tx completion: 9f2dc394ffa97e47af625b12bb9d9cb67f1faaa0b0c90978846846e4297bccb8
+✔ Tx completed
