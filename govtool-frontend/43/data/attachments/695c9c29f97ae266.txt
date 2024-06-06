@@ -1,0 +1,3 @@
+✔ Uploaded Hipolito_Williamson.jsonld metadata to bucket
+ℹ Waiting for tx completion: a03db90f33874b70b716ca2945b14577da1eabe10f50debe3b12b6440b8c825b
+✔ Tx completed
