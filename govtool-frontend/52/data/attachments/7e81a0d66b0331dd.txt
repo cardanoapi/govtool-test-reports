@@ -1,0 +1,3 @@
+✔ Uploaded Ara.jsonld metadata to bucket
+ℹ Waiting for tx completion: e4d1cb1eb6253552620a9ce1ea8483a3c89c600dc7dff06bc0b293129e79283b
+✔ Tx completed

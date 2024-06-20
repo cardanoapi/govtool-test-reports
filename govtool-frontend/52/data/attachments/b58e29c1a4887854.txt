@@ -1,0 +1,3 @@
+✔ Uploaded Simeon.jsonld metadata to bucket
+ℹ Waiting for tx completion: 18967f3a7a0ad70bbbd4b88a64083bd78642590de9a52f785b82a09f2c4bfba5
+✔ Tx completed
