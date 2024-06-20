@@ -1,0 +1,3 @@
+✔ Uploaded Amira.jsonld metadata to bucket
+ℹ Waiting for tx completion: f20c616c649214b3d8f80181b382dc4e1ac3630cc02b9a5865d809e42e2e7bcf
+✔ Tx completed

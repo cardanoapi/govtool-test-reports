@@ -1,0 +1,3 @@
+✔ Uploaded Hershel.jsonld metadata to bucket
+ℹ Waiting for tx completion: fc694b60fffa1739247b934c0488df0ce1f08049c6868b53ac81e3be46b7ee19
+✔ Tx completed
