@@ -1,0 +1,3 @@
+✔ Uploaded Verda.jsonld metadata to bucket
+ℹ Waiting for tx completion: 9e31de1f080ba2803b772fb315a51b66968d9765d9fbfedfea85f377a581cda9
+✔ Tx completed
