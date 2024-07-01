@@ -1,0 +1,3 @@
+✔ Uploaded Molly.jsonld metadata to bucket
+ℹ Waiting for tx completion: f8fcc0841810ca22916243920b39677fb17db2b534470eb305672d9fc5b8255f
+✔ Tx completed
