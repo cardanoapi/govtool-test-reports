@@ -1,0 +1,3 @@
+✔ Uploaded Rasheed.jsonld metadata to bucket
+ℹ Waiting for tx completion: fac768ea4876b587587db0acdeab5e0a4a7157ecb4e4e05963f363288335e9c5
+✔ Tx completed
