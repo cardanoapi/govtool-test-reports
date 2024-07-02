@@ -1,0 +1,3 @@
+✔ Uploaded Lavern.jsonld metadata to bucket
+ℹ Waiting for tx completion: 303cdd52924519389952054b861c9479f4e54db232fa49ab516bdf708873b70d
+✔ Tx completed
