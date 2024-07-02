@@ -1,0 +1,3 @@
+✔ Uploaded Joelle.jsonld metadata to bucket
+ℹ Waiting for tx completion: ec1a96702049630a2466191387d767486b75cd86194f1247682cbad5e3b7e91f
+✔ Tx completed
