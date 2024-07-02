@@ -1,0 +1,3 @@
+✔ Uploaded Brice.jsonld metadata to bucket
+ℹ Waiting for tx completion: 0aa0dc0ba5bb07ffe91dd1700193a914c3fbd4ecaf9882054f7a024dd76c6663
+✔ Tx completed
