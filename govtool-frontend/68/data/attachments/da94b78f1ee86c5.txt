@@ -1,0 +1,3 @@
+✔ Uploaded Maybell.jsonld metadata to bucket
+ℹ Waiting for tx completion: 9cfc35237eb07d1885009fd4846b68140968458ff3e1187cb33d980a485f4687
+✔ Tx completed

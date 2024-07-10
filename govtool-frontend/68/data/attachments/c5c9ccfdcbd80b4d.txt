@@ -1,0 +1,3 @@
+✔ Uploaded Sylvan.jsonld metadata to bucket
+ℹ Waiting for tx completion: 073649157bd612dc62f90206a9f696410fcbc126d2a30f9cca25951b563df9bf
+✔ Tx completed
