@@ -1,0 +1,3 @@
+✔ Uploaded Breanna.jsonld metadata to bucket
+ℹ Waiting for tx completion: d62e501bad7f1ee69868650a02b2b98252be2db88993a559742af86a1deb2857
+✔ Tx completed
