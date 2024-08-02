@@ -1,0 +1,3 @@
+✔ Uploaded Adan.jsonld metadata to bucket
+ℹ Waiting for tx completion: e6f5e12204666034b2446e40cc73cfbf82713a5f06d6c3ce852f09a6c34d0575
+✔ Tx completed

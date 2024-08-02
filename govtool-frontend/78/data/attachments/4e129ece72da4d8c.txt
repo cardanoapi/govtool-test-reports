@@ -1,0 +1,3 @@
+✔ Uploaded Donnie.jsonld metadata to bucket
+ℹ Waiting for tx completion: 6fd47c019f1050b8a649f82e6e298878493350bfa1f2511485ff12ee23cb0b39
+✔ Tx completed

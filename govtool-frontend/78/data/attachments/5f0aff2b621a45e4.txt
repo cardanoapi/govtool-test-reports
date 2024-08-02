@@ -1,0 +1,3 @@
+✔ Uploaded Annette.jsonld metadata to bucket
+ℹ Waiting for tx completion: c154a4a63363bf4b4268ba3a86d11e84eadce5a0f6e5ed900ca14f9778e422cd
+✔ Tx completed
