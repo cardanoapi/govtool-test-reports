@@ -1,0 +1,3 @@
+✔ Uploaded Olen.jsonld metadata to bucket
+ℹ Waiting for tx completion: 7f587dd2931cdc24bce6b6810d83b5c35206f6c1ebbe22c93f05332f2fd306b2
+✔ Tx completed
