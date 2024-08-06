@@ -1,0 +1,3 @@
+✔ Uploaded Meda.jsonld metadata to bucket
+ℹ Waiting for tx completion: 11f5472e3e35a417d6a33f553250c044ffd129fc04444c5ac6b86be945524815
+✔ Tx completed

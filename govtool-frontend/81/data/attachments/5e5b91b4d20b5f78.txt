@@ -1,0 +1,3 @@
+✔ Uploaded Sylvia.jsonld metadata to bucket
+ℹ Waiting for tx completion: af74ec3593e1214c75f8cbd016884d0a3f86639cdd9084fb633f7cf8be1aed30
+✔ Tx completed
