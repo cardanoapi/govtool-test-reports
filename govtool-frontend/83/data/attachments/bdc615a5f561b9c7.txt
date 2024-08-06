@@ -1,0 +1,3 @@
+✔ Uploaded Juliet.jsonld metadata to bucket
+ℹ Waiting for tx completion: cbb1ac894af125f1fdd68d1fbbe45d1cd5cb8f8f95b359421776c2fa092d7f8f
+✔ Tx completed

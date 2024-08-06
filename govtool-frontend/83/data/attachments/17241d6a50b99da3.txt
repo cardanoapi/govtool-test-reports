@@ -1,0 +1,3 @@
+✔ Uploaded Ettie.jsonld metadata to bucket
+ℹ Waiting for tx completion: 9486e5790d152c2cf4689783b18b5ba62036349a2ba737c027e7c7fdbd3f887f
+✔ Tx completed
