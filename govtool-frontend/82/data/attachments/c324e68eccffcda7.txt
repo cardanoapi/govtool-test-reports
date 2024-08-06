@@ -1,0 +1,3 @@
+✔ Uploaded Theodora.jsonld metadata to bucket
+ℹ Waiting for tx completion: b27fba429e4cece91ebe3ba39ae9770d335eac9fe48952c7bc25ff6634f5c5ae
+✔ Tx completed
