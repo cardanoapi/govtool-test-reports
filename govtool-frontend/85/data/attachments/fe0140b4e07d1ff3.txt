@@ -1,0 +1,3 @@
+✔ Uploaded Paris.jsonld metadata to bucket
+ℹ Waiting for tx completion: 3e8cc94079eb84490f487a8b40f145344551f6909ca2c92b938cc6b7460ab7ae
+✔ Tx completed

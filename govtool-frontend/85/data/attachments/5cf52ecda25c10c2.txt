@@ -1,0 +1,3 @@
+✔ Uploaded Liam.jsonld metadata to bucket
+ℹ Waiting for tx completion: 2559c7fd3c60bb711b0f15f8a28d87b3d9663319cb10ff5f73609abdb3379d32
+✔ Tx completed

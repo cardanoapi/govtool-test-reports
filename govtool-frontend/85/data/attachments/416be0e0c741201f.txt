@@ -1,0 +1,3 @@
+✔ Uploaded Ayana.jsonld metadata to bucket
+ℹ Waiting for tx completion: 415fb187cb919731444754b55bc6888faac1cc23288d64937a71a1baeb431b6a
+✔ Tx completed
