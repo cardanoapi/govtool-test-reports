@@ -1,0 +1,3 @@
+✔ Uploaded Amina.jsonld metadata to bucket
+ℹ Waiting for tx completion: 1dea93ade3b09802ba3415a2009e8bad988ace9bb287dd1df249b6aa5b1483dc
+✔ Tx completed
