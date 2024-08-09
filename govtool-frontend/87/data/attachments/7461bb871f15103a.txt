@@ -1,0 +1,3 @@
+✔ Uploaded Bulah.jsonld metadata to bucket
+ℹ Waiting for tx completion: 7f170dc25dabf22133c184e7c400b251eeabbe3cbb3fd87db92a82ea0c5f86df
+✔ Tx completed
