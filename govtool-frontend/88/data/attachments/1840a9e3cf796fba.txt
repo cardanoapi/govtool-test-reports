@@ -1,0 +1,3 @@
+✔ Uploaded Alfred.jsonld metadata to bucket
+ℹ Waiting for tx completion: d2e45d6d55f04b9f435aa7af0e28966ec2d48987193ed0ba0724756056e84839
+✔ Tx completed
