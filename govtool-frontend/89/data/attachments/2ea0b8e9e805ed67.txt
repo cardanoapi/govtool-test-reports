@@ -1,0 +1,3 @@
+✔ Uploaded Wilton.jsonld metadata to bucket
+ℹ Waiting for tx completion: 52141d6a65dfba837647d80e0b3d26b6f0fc0c357fd2c5e60c956c6dac113ad1
+✔ Tx completed
