@@ -1,0 +1,3 @@
+✔ Uploaded Thalia.jsonld metadata to bucket
+ℹ Waiting for tx completion: 5b364de243492cd701dfbdf434280f636a67a5c670cc5e48b49acf847e9235fb
+✔ Tx completed
