@@ -1,0 +1,3 @@
+✔ Uploaded Moses.jsonld metadata to bucket
+ℹ Waiting for tx completion: c64fc4000dc588126b5c0ec677c92a8c0f838eb7118a0064fa92a1c0c1eda5aa
+✔ Tx completed
