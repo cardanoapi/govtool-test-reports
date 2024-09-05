@@ -1,0 +1,3 @@
+✔ Uploaded Cristal.jsonld metadata to bucket
+ℹ Waiting for tx completion: 13271c34885aa3f8de594fddd463201466a3f2d725b795cc619599398da170fb
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Nathen.jsonld metadata to bucket
+ℹ Waiting for tx completion: 576b71f921d1a2a96a1271a63a0ef82552ae5b90208d4bf70ad7929e7abbb598
+✔ Tx completed
