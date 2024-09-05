@@ -1,0 +1,3 @@
+✔ Uploaded Nathaniel.jsonld metadata to bucket
+ℹ Waiting for tx completion: 1a8875acc6f417f5ff90a864cc56db02e084228e91862cc52ccad39a3841c164
+✔ Tx completed

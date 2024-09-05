@@ -1,0 +1,3 @@
+✔ Uploaded Laurine.jsonld metadata to bucket
+ℹ Waiting for tx completion: 96747aaae113af17c34af504c78c8c75dfbad9e8074e16657032883f28711e15
+✔ Tx completed

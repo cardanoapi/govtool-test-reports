@@ -1,0 +1,3 @@
+✔ Uploaded Viva.jsonld metadata to bucket
+ℹ Waiting for tx completion: 1b9e92cd0a3375192f61eddefbd3d7ee95cece00aec2529160dc5e93bccbb2b7
+✔ Tx completed

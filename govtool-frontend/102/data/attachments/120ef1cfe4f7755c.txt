@@ -1,0 +1,3 @@
+✔ Uploaded Georgianna.jsonld metadata to bucket
+ℹ Waiting for tx completion: 771cc7870149cc086388524124aec06ae44a433e3fb4330c8b7aa854e2efbf98
+✔ Tx completed
