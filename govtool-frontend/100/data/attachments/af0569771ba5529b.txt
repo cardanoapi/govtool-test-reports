@@ -1,0 +1,3 @@
+✔ Uploaded Loren.jsonld metadata to bucket
+ℹ Waiting for tx completion: 07355e748f534b64d0d3aebda9082fa03beab3a00f7bbfed00074d539de96dcd
+✔ Tx completed

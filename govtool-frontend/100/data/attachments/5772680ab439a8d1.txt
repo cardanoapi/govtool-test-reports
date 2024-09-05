@@ -1,0 +1,3 @@
+✔ Uploaded Wilson.jsonld metadata to bucket
+ℹ Waiting for tx completion: a1758e04c30e965a9ba3721ad759c2d3d8e7107200bf8bf624afa165547af6f5
+✔ Tx completed
