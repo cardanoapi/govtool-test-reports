@@ -1,0 +1,3 @@
+✔ Uploaded Brenna.jsonld metadata to bucket
+ℹ Waiting for tx completion: de91cd17d1432246c93a8c63fb60187e53d38d14775e3e6fe13a18b4279a54de
+✔ Tx completed

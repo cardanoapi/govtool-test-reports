@@ -1,0 +1,3 @@
+✔ Uploaded Sincere.jsonld metadata to bucket
+ℹ Waiting for tx completion: 59c8fc3f67f1433666be71fcb4ad35032bf81a8a69bd4afd10c1fa951b87e118
+✔ Tx completed
