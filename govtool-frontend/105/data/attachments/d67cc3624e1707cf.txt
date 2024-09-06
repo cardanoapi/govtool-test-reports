@@ -1,0 +1,3 @@
+✔ Uploaded Roger.jsonld metadata to bucket
+ℹ Waiting for tx completion: cbf86cb4c97573582231131770dfa8fd4d68d618f77656561578820ea974f823
+✔ Tx completed
