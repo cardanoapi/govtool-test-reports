@@ -1,0 +1,3 @@
+✔ Uploaded Frederick.jsonld metadata to bucket
+ℹ Waiting for tx completion: acd94a962b94760920d64cee4df7e8fbd9fde56784d699c18e0f630526f6c5c6
+✔ Tx completed

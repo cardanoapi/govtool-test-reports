@@ -1,0 +1,3 @@
+✔ Uploaded Tyrese.jsonld metadata to bucket
+ℹ Waiting for tx completion: 1a5a12d4d078e621be348b03351e4ed0a64f0cc1736c9a45ce01270d5afc5960
+✔ Tx completed
