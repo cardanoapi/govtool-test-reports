@@ -1,0 +1,3 @@
+✔ Uploaded Mallie.jsonld metadata to bucket
+ℹ Waiting for tx completion: 0205062c6e166ba70ae41d000b271014460a3372ca0ca4b52026a8cdb903a515
+✔ Tx completed
