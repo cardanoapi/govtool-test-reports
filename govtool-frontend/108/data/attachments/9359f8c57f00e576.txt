@@ -1,0 +1,3 @@
+✔ Uploaded Frederik.jsonld metadata to bucket
+ℹ Waiting for tx completion: 276d91915f8a7ab7b5ee8faab0089f82c1ad6efd652357b6eecc43235378f812
+✔ Tx completed

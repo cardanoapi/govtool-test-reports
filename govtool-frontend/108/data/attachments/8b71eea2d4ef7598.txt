@@ -1,0 +1,3 @@
+✔ Uploaded Raven.jsonld metadata to bucket
+ℹ Waiting for tx completion: 40801beaefe381f10431a20a264032f954075de75d7c5b8d3fc604c0782dcf31
+✔ Tx completed
