@@ -1,0 +1,3 @@
+✔ Uploaded Ethyl.jsonld metadata to bucket
+ℹ Waiting for tx completion: d0b2467ef0b1179d371b132dd8fa318aab2cb74485ee594dbe873820b83f0d9f
+✔ Tx completed

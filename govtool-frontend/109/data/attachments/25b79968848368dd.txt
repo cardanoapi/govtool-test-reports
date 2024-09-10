@@ -1,0 +1,21 @@
+39969
+ℹ Submitting tx: {"lock_id":"36f11ecc732605ac3484ffe1548d5352e9509ecda66f702c7aba8643f56321ac","tx":{"outputs":[{"address":"addr_test1vz0ua2vyk7r4vufmpqh5v44awg8xff26hxlwyrt3uc67maqtql3kl","value":"39969A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582064678c6b42c2b07000927563c63964effaae16c9228c0236593fa3abed9051e2"},"addr_test1qqemavz2f7sje4cmdrhdn4vdessmcdgvqaylqy6k2sqzeaqct2lxu4v2tefqetmrhnj62pqcxyhyjdsxzucje6dujwfqv2yzj9"],"changeAddress":"addr_test1qqemavz2f7sje4cmdrhdn4vdessmcdgvqaylqy6k2sqzeaqct2lxu4v2tefqetmrhnj62pqcxyhyjdsxzucje6dujwfqv2yzj9"}}
+Error: KuberApi [Status 400] : ShelleyTxValidationError ShelleyBasedEraConway (ApplyTxError (ConwayUtxowFailure (UtxoFailure (BabbageOutputTooSmallUTxO [((Addr Testnet (KeyHashObj (KeyHash {unKeyHash = "33beb04a4fa12cd71b68eed9d58dcc21bc350c0749f0135654002cf4"})) (StakeRefBase (KeyHashObj (KeyHash {unKeyHash = "185abe6e558a5e520caf63bce5a50418312e49360617312ce9bc9392"}))),MaryValue (Coin 903687) (MultiAsset (fromList [])),NoDatum,SNothing),Coin 969750)])) :| []))
+    at /home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/lib/services/kuberService.ts:462:19
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Kuber.submitTx (/home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/lib/services/kuberService.ts:102:18)
+    at Function.intercept (/home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/lib/lockInterceptor.ts:122:19)
+    at /home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/tests/faucet.teardown.ts:21:32
+    at /home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/worker/workerMain.js:338:9
+    at /home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/worker/testInfo.js:285:11
+    at TimeoutManager.withRunnable (/home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/worker/timeoutManager.js:63:14)
+    at TestInfoImpl._runAsStage (/home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/worker/testInfo.js:283:7)
+    at /home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/worker/workerMain.js:330:7
+    at /home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/worker/testInfo.js:285:11
+    at TimeoutManager.withRunnable (/home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/worker/timeoutManager.js:51:27)
+    at TestInfoImpl._runAsStage (/home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/worker/testInfo.js:283:7)
+    at WorkerMain._runTest (/home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/worker/workerMain.js:280:5)
+    at WorkerMain.runTestGroup (/home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/worker/workerMain.js:204:11)
+    at process.<anonymous> (/home/runner/work/govtool/govtool/tests/govtool-frontend/playwright/node_modules/playwright/lib/common/process.js:95:22) {
+  status: 400
+}
