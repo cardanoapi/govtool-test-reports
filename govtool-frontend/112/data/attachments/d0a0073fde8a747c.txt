@@ -1,0 +1,3 @@
+✔ Uploaded Garrick.jsonld metadata to bucket
+ℹ Waiting for tx completion: 471505095ff21e83ea5693f80e846a802e2f9db7317c6f6cdf43d4b21844a87e
+✔ Tx completed

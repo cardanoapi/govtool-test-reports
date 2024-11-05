@@ -1,0 +1,3 @@
+✔ Uploaded Tracy.jsonld metadata to bucket
+ℹ Waiting for tx completion: b384e4320952f03e6e306f295aa50e435006d332b30ea0fbc4e479b611866ae8
+✔ Tx completed
