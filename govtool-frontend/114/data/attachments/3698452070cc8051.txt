@@ -1,0 +1,2 @@
+✔ Uploaded Roma metadata to bucket
+✔ Uploaded Agustin metadata to bucket
