@@ -1,0 +1,3 @@
+✔ Uploaded Adelia.jsonld metadata to bucket
+ℹ Waiting for tx completion: 19337e73d5b8b682424e6697c0b637130bf5e26a8c0c1ae8fdb17d1760c00d42
+✔ Tx completed
