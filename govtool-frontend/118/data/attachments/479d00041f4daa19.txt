@@ -1,0 +1,3 @@
+✔ Uploaded Jerrod.jsonld metadata to bucket
+ℹ Waiting for tx completion: a86308b3c5d9874307b4941e0f0f0ac32e412bceefa132e5b8b6ff6ab3810c7e
+✔ Tx completed

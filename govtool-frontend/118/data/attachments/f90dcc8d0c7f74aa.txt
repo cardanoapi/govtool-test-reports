@@ -1,0 +1,3 @@
+✔ Uploaded Dorcas.jsonld metadata to bucket
+ℹ Waiting for tx completion: f2d35af07ffd9f89b16bd0acbd2c6b922ba9dd32291a387d15901378ffae5059
+✔ Tx completed

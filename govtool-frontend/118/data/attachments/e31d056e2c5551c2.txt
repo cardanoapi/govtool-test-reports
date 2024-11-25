@@ -1,0 +1,3 @@
+✔ Uploaded Tyson.jsonld metadata to bucket
+ℹ Waiting for tx completion: 37283eb782634399fe316df8d67ea62a8551e5de7c5a557866efd9bbd00d7122
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Cecile.jsonld metadata to bucket
+ℹ Waiting for tx completion: 04fe88485404a35f2956a39c55e36231ad81a54e88de3616cff04023082fa6fe
+✔ Tx completed
