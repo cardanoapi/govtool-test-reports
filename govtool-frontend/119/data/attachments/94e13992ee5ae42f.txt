@@ -1,0 +1,2 @@
+✔ Uploaded Judah metadata to bucket
+✔ Uploaded Sadye metadata to bucket
