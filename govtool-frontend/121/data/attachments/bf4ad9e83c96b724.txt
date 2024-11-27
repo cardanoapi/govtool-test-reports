@@ -1,0 +1,3 @@
+✔ Uploaded Linwood.jsonld metadata to bucket
+ℹ Waiting for tx completion: 81ce2abc9424ac2e322d7d411bf35721a2378bf151278e0043bb9231bc068b1a
+✔ Tx completed

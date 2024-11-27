@@ -1,0 +1,3 @@
+✔ Uploaded Herminia.jsonld metadata to bucket
+ℹ Waiting for tx completion: f8777e9d6a93d042fe76626a5a2f50ecd70ce087682bcd88aba071c6a8f8feea
+✔ Tx completed
