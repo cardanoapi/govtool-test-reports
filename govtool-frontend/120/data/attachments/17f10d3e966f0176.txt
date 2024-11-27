@@ -1,0 +1,2 @@
+✔ Uploaded Daphney metadata to bucket
+✔ Uploaded Audrey metadata to bucket
