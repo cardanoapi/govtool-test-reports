@@ -1,0 +1,2 @@
+✔ Uploaded Keon metadata to bucket
+✔ Uploaded Mittie metadata to bucket
