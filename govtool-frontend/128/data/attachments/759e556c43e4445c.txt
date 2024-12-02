@@ -1,0 +1,8 @@
+ℹ Waiting for tx completion: 6cc10a3a36d554fc83c5397e0dc6d3345f87ca9d299ab5756f636d70a02759bf
+✖ expect(received).toBeGreaterThan(expected)
+
+Expected: > 0
+Received:   0
+
+Call Log:
+- Timeout 960000ms exceeded while waiting on the predicate
