@@ -1,0 +1,3 @@
+✔ Uploaded Lester.jsonld metadata to bucket
+ℹ Waiting for tx completion: 2bd54b71d11bd0d5030b903d127b3f8047421068290c9540765cea8c55a4ddf7
+✔ Tx completed
