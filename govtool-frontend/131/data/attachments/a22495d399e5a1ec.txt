@@ -1,0 +1,3 @@
+✔ Uploaded Deshawn.jsonld metadata to bucket
+ℹ Waiting for tx completion: 1ed2aa0878b062dd2cf2c7451b02dd32d4e15bf2264513ae6e2fba5ae7978493
+✔ Tx completed

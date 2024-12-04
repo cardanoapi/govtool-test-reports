@@ -1,0 +1,3 @@
+✔ Uploaded Arielle.jsonld metadata to bucket
+ℹ Waiting for tx completion: 9b2161a9b9ff4c472b439bf11af7e08b4a7dea88c957b66ad6fb090d32e1f095
+✔ Tx completed
