@@ -1,0 +1,3 @@
+✔ Uploaded Elisa.jsonld metadata to bucket
+ℹ Waiting for tx completion: 5e686378e6aa4c613ce46114faabc74b3b391a308f864aad735c72289d380536
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Ayla.jsonld metadata to bucket
+ℹ Waiting for tx completion: 87f89e59f2fe328f114084bbd92418c5f34bcfd1fc98fc948e84ad2b34b3ed97
+✔ Tx completed

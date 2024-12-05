@@ -1,0 +1,3 @@
+✔ Uploaded Shanie.jsonld metadata to bucket
+ℹ Waiting for tx completion: 9538efd5c46e2a7c7eb9eeb4bbba2569ad38b1a6cc84a42c2939b543db95b960
+✔ Tx completed
