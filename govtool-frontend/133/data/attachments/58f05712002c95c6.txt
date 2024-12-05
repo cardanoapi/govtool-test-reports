@@ -1,0 +1,3 @@
+✔ Uploaded Ernestine.jsonld metadata to bucket
+ℹ Waiting for tx completion: 13584d1f319a2e5093efa0e23efe175b437406c8510e68d6eee3f5666118c5aa
+✔ Tx completed

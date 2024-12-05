@@ -1,0 +1,3 @@
+✔ Uploaded Cassidy.jsonld metadata to bucket
+ℹ Waiting for tx completion: 2b4579b8643db2048f2b9c0da24812e60ff889a4305021955952acf0670a8a3d
+✔ Tx completed
