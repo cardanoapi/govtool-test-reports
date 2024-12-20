@@ -1,0 +1,3 @@
+✔ Uploaded data.jsonld metadata to bucket
+ℹ Waiting for tx completion: c936a0687b90661baa00fc61bb7eba8580928299ac381d67ad91826679fd6ee1
+✔ Tx completed

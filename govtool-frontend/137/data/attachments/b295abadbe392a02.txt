@@ -1,0 +1,3 @@
+✔ Uploaded Melvin.jsonld metadata to bucket
+ℹ Waiting for tx completion: 2fa3b194645d3c965c9ae699b14ae66da6a6b3dd34504f843d079902e7d3fec9
+✔ Tx completed
