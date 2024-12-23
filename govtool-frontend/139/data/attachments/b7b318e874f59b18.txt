@@ -1,0 +1,3 @@
+✔ Uploaded Laury.jsonld metadata to bucket
+ℹ Waiting for tx completion: f90af29a12e203b08167082cbbca0f2bd6f522413fc9fe96628e9c7e3a08c18e
+✔ Tx completed

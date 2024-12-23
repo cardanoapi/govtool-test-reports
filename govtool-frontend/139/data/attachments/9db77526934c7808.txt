@@ -1,0 +1,3 @@
+✔ Uploaded Stevie.jsonld metadata to bucket
+ℹ Waiting for tx completion: c77657605261c0fc84636c726775b8c8118bbb83cec7a35d2a8a3800f8b2f7de
+✔ Tx completed
