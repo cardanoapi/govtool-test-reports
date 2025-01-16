@@ -1,0 +1,3 @@
+✔ Uploaded Magali.jsonld metadata to bucket
+ℹ Waiting for tx completion: f890ab698c922c664d2d2ea3617ff5cc20764ebc9cfacf9483f0c65b015e1878
+✔ Tx completed
