@@ -1,0 +1,3 @@
+✔ Uploaded Tomas.jsonld metadata to bucket
+ℹ Waiting for tx completion: 1b1ad22d6a3c476dcc0a54d265917e6190ab6a240bc0e0f487b13669b2a7ed73
+✔ Tx completed
