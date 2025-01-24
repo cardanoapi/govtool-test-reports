@@ -1,0 +1,10 @@
+{
+  "simulation": "org.cardano.govtool.simulations.VvaSimulation",
+  "simulationId": "vvasimulation-20250124064029835",
+  "start": 1737700835911,
+  "description": "",
+  "scenarios": ["Users Like/Dislike proposal", "List Proposal types", "Users Comment on proposal", "Proposal Active/InActive polls status", "Users Create proposal/draft", "List Proposal Discussions"],
+  "assertions": [
+
+  ]
+}
