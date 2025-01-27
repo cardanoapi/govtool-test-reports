@@ -1,0 +1,3 @@
+✔ Uploaded Cynthia.jsonld metadata to bucket
+ℹ Waiting for tx completion: 89920f390ccffb965753dc516f5dbbf51778ab328df931fe4578d41b14366eab
+✔ Tx completed
