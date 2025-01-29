@@ -1,0 +1,3 @@
+✔ Uploaded Eleanora.jsonld metadata to bucket
+ℹ Waiting for tx completion: 807c06b95aabaa266c9d431479f28c936cde2a0ecfe2064fbf4a45dcb80c4293
+✔ Tx completed

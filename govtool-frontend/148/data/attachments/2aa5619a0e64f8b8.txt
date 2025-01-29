@@ -1,0 +1,3 @@
+✔ Uploaded Wellington.jsonld metadata to bucket
+ℹ Waiting for tx completion: 788a59badbfcc80caae975d1d597384d305cba90c340a44e3aa7a7fdf09242a6
+✔ Tx completed

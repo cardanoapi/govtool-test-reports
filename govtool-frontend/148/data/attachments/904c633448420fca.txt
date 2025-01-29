@@ -1,0 +1,3 @@
+✔ Uploaded Ludwig.jsonld metadata to bucket
+ℹ Waiting for tx completion: 915261535470798ba6253e12708d51e7048413b7edd441b97cea8456d5fd3417
+✔ Tx completed

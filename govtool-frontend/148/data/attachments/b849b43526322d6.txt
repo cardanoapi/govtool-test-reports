@@ -1,0 +1,3 @@
+✔ Uploaded Arturo.jsonld metadata to bucket
+ℹ Waiting for tx completion: 2889ba38ed417681a35eab2575fb4147bc69c568c70f058f1e43750ba600f20e
+✔ Tx completed
