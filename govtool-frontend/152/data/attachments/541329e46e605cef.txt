@@ -1,0 +1,3 @@
+✔ Uploaded Viola.jsonld metadata to bucket
+ℹ Waiting for tx completion: 938e1e52fa2bb4481a81f808f21dfa06007b1435d3f1dcb943fd31a2bd2d75ba
+✔ Tx completed

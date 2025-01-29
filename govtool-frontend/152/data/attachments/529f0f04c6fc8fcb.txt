@@ -1,0 +1,3 @@
+✔ Uploaded Lewis.jsonld metadata to bucket
+ℹ Waiting for tx completion: e539edf31816b2ce97781d63c9a3607d6266c918d60b2636c87be65241d40825
+✔ Tx completed
