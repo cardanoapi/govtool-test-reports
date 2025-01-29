@@ -1,0 +1,3 @@
+✔ Uploaded Scarlett.jsonld metadata to bucket
+ℹ Waiting for tx completion: 2d30de2900bf5d83b7d97f79c01b08ac220032c0fb4c94f12f752f7dc2df1aad
+✔ Tx completed

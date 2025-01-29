@@ -1,0 +1,3 @@
+✔ Uploaded Hulda.jsonld metadata to bucket
+ℹ Waiting for tx completion: 234523b9c399118c9e096498e4cb5c5784c3cc9508521f91f86f261b54d79c9c
+✔ Tx completed
