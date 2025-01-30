@@ -1,0 +1,3 @@
+✔ Uploaded Keaton.jsonld metadata to bucket
+ℹ Waiting for tx completion: 050b6d7035efe8c125bd68da99a4417d8d1228a512e23389ed136ec5c744dc7d
+✔ Tx completed
