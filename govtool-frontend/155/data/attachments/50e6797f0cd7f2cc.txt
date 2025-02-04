@@ -1,0 +1,3 @@
+✔ Uploaded Augusta.jsonld metadata to bucket
+ℹ Waiting for tx completion: 66ad04900c39ea142b1e3a6b28b95e712f54eb34dfbfce4ce78fa5658968dd13
+✔ Tx completed

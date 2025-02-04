@@ -1,0 +1,3 @@
+✔ Uploaded Elyse.jsonld metadata to bucket
+ℹ Waiting for tx completion: 64d2f41d230adcfa753003688da9987ea25c32b85fe52c7de8102376362c8f82
+✔ Tx completed

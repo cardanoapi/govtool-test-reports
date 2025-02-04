@@ -1,0 +1,3 @@
+✔ Uploaded Libby.jsonld metadata to bucket
+ℹ Waiting for tx completion: 413c1fd3557c2ddb0d95751d2c8900c8bf057ac2846aff2d435b35923759e520
+✔ Tx completed
