@@ -1,0 +1,3 @@
+✔ Uploaded Kraig.jsonld metadata to bucket
+ℹ Waiting for tx completion: 62ba451682a17dc347d165e620d6395eb8aee393847835efe7fbdfabef87dfd5
+✔ Tx completed

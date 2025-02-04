@@ -1,0 +1,3 @@
+✔ Uploaded Kayley.jsonld metadata to bucket
+ℹ Waiting for tx completion: f944e666a9384f0830a634434d6d459f4c248e11ea3a4bcb15ed30c8c42f9eb2
+✔ Tx completed
