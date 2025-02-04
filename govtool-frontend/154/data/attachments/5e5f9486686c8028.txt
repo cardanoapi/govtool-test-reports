@@ -1,0 +1,3 @@
+✔ Uploaded Gideon.jsonld metadata to bucket
+ℹ Waiting for tx completion: 035d36c5caf65a1e146de453a1797cb54ae372e14e23cdeb7f01f022fe1ba4fd
+✔ Tx completed
