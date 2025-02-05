@@ -1,0 +1,3 @@
+✔ Uploaded Sister.jsonld metadata to bucket
+ℹ Waiting for tx completion: 61d8ca932a91321d13293ba3644e6f61324d5dbcfc8965a9377d854b9d2ef1b8
+✔ Tx completed
