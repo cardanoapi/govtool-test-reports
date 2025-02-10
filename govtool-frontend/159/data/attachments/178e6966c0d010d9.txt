@@ -1,0 +1,3 @@
+✔ Uploaded Leanne.jsonld metadata to bucket
+ℹ Waiting for tx completion: 536f7c98a4cb56c241b61b1f5cd809a6424c377fceb950e3127f0ff69d7c47cd
+✔ Tx completed
