@@ -1,0 +1,3 @@
+✔ Uploaded Josiane.jsonld metadata to bucket
+ℹ Waiting for tx completion: af3add7f253f0b41327c4985b244ec06f415cb6f78f705bf026871eed3540cf7
+✔ Tx completed

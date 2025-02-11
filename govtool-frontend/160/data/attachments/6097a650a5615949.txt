@@ -1,0 +1,3 @@
+✔ Uploaded Florida.jsonld metadata to bucket
+ℹ Waiting for tx completion: 2fcff4956955b1f138107661fc1009cdfc1510c152982b8b755ab40aaf99351c
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Trystan.jsonld metadata to bucket
+ℹ Waiting for tx completion: 622571445eb9f326069aefc030ca001b42610315f3e84db91b9b9d4152761b18
+✔ Tx completed

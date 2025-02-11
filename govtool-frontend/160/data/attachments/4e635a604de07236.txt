@@ -1,0 +1,3 @@
+✔ Uploaded Hayden.jsonld metadata to bucket
+ℹ Waiting for tx completion: db40e100f3c9c8617f3611f0e3264c50b16ae85a5ef157ebc4ad73dccea5e76e
+✔ Tx completed
