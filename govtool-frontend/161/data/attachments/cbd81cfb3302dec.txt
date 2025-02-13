@@ -1,0 +1,3 @@
+✔ Uploaded Marielle.jsonld metadata to bucket
+ℹ Waiting for tx completion: 96ffc02f3770dc1461716cb123accd8ad55271d635a909659bda978cb7d5f3be
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Yessenia.jsonld metadata to bucket
+ℹ Waiting for tx completion: 7f4aba52c9dedfb24af5c32b3de881f1a2bc0bbb07c629b6ee3868545d1c5ced
+✔ Tx completed
