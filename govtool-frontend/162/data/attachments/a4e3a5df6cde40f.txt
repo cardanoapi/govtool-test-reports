@@ -1,0 +1,3 @@
+✔ Uploaded Britney.jsonld metadata to bucket
+ℹ Waiting for tx completion: b2461f9d5a8393e2def11ffd31ed8acf3dc2d789cb279bbe445bc4e6d8148c91
+✔ Tx completed
