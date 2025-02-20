@@ -1,0 +1,4 @@
+✖ DRep Registration - not using anchor
+✖ Failed to load resource: the server responded with a status of 429 ()
+ℹ Waiting for tx completion: 48ec7400cbfbf916b50b8dd9678850810c7d29c7f64e487488fa447a1d3d4812
+✔ Tx completed

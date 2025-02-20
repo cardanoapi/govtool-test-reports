@@ -1,0 +1,5 @@
+✖ {e: Error: You are trying to connect with a wallet connected to mainnet. Please adjust your wallet sett…}
+✖ Error: You are trying to connect with a wallet connected to mainnet. Please adjust your wallet settings to connect to testnet or select a different wallet.
+    at Object.enable (https://govtool.cardanoapi.io/assets/index-D3hYZdEF.js:407:42701)
+    at async https://govtool.cardanoapi.io/assets/index-D3hYZdEF.js:407:55389
+    at async https://govtool.cardanoapi.io/assets/index-D3hYZdEF.js:759:19600

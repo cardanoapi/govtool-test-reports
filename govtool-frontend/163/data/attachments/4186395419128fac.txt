@@ -1,0 +1,4 @@
+✔ Uploaded guardrail-script metadata to bucket
+✔ Uploaded data.jsonld metadata to bucket
+ℹ Waiting for tx completion: 1e45e81fd00e8e808d3d9d9f110b51ebd6587350ed094dedf1ec1b6dde12e245
+✔ Tx completed

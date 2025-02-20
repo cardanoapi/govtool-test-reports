@@ -1,0 +1,3 @@
+✔ Uploaded Sienna.jsonld metadata to bucket
+ℹ Waiting for tx completion: 02600fdc73dcd52bccbaa4155d48dee5e6ed365944afa8f87ea957dbc2be64d0
+✔ Tx completed
