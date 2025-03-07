@@ -1,0 +1,4 @@
+✔ Uploaded Royce.jsonld metadata to bucket
+ℹ Waiting for tx completion: 0ca21802209924e70b49f31357bce80dcfe4321b72f759e18418e8bbaec32552
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Tx completed

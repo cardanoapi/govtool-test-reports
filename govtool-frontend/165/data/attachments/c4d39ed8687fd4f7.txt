@@ -1,0 +1,3 @@
+✔ Uploaded Zackary.jsonld metadata to bucket
+ℹ Waiting for tx completion: 4fca73672ad87dba4ed6f1708a90438c57f3824a1a2718a645c04d995f6e2e32
+✔ Tx completed

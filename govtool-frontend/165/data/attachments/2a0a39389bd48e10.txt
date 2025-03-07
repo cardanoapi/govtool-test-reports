@@ -1,0 +1,3 @@
+✔ Uploaded Mariela.jsonld metadata to bucket
+ℹ Waiting for tx completion: 9912d7955dac856378d2715b19d7c1d6426d6a0545e3b505036cc1cbde0994d7
+✔ Tx completed

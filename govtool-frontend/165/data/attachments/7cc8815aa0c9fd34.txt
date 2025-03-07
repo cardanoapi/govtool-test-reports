@@ -1,0 +1,3 @@
+✔ Uploaded Marie.jsonld metadata to bucket
+ℹ Waiting for tx completion: ff4d9728f0ce2d116490e79806aac0c779cb495434e2cd6b40d9a35bca07cda7
+✔ Tx completed
