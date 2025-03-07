@@ -1,0 +1,3 @@
+✔ Uploaded Moshe.jsonld metadata to bucket
+ℹ Waiting for tx completion: 23f7231366873469c5b3a4509aaf734d8bf47bc8d90c8695dfeea46363ade43c
+✔ Tx completed
