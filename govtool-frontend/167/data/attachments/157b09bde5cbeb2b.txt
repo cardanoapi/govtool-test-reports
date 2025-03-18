@@ -1,0 +1,5 @@
+✖ DRep Registration - not using anchor
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: 1a709a82545c6ea24b2f6fd70ecbb54c01fc3d091a47164249724886d22701f7
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Tx completed

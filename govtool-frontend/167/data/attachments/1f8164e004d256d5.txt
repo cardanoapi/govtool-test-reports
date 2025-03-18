@@ -1,0 +1,7 @@
+✔ Uploaded Mckenna.jsonld metadata to bucket
+ℹ Waiting for tx completion: d53fb083134feae785b2dc0a246f1311d6716321d8a3ce3c845808ceb5e3f42c
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
