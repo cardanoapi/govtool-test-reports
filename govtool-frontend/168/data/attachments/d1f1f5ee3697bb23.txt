@@ -1,0 +1,6 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Earline.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 429 ()
+ℹ Waiting for tx completion: f255d1b790fe08a38566d18768d9b1daf3e777d2a19b664da69b05870033e800
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Tx completed

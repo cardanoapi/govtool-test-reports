@@ -1,0 +1,5 @@
+✔ Uploaded Robb metadata to bucket
+ℹ Submitting tx: {"lock_id":"60b2e17ae3efd638106529eb6ea71621b94d8b2e3ac5cc360a391d38244bd531","tx":{"certificates":[{"type":"registerdrep","key":"f04a83a7a5d42bbd522158c6dcdbd09b653656abf72d3027686db941","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Robb","dataHash":"3781cb934a26b7281371ecf8dcf2091518f940b72d15ab2c03874ca2e427f541"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820443563f4f67096ce31480b13d7a36cd4a9d82770caa5d6dda4822d56f70d41c3"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 4c199aa7a714262eec28138b25b8da9e24633d339de8c676ea3aad89453a6044
+ℹ Waiting for tx completion: 4c199aa7a714262eec28138b25b8da9e24633d339de8c676ea3aad89453a6044
+✔ Tx completed

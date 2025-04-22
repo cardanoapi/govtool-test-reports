@@ -1,0 +1,4 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded volutabrum metadata to bucket
+ℹ Waiting for tx completion: 85a217692c1877e54871ec8538c8c957294f0d1cbafba03bdb0fdec099f9c8cc
+✔ Tx completed
