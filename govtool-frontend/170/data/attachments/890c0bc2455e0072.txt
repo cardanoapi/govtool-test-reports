@@ -1,0 +1,5 @@
+✔ Uploaded Narciso metadata to bucket
+ℹ Submitting tx: {"lock_id":"91f11b9479daa07ed0e5915970902f95e41cd70cede9fbf2b0aaddeb727af57e","tx":{"certificates":[{"type":"registerdrep","key":"c81dbb598501bcfbcd22fe82c003113ac02c09bf7abb681ce2d6917a","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Narciso","dataHash":"583b6def6999568bb450d2685393b61414da9c5ff5a4eec8ec292a07fceca21b"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820668692879a66f78fccac4daebd43c4c1566342e76ee876c28276b2b6a13698e0"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 87213257c67ba8f3a1d8e494bbf8d0199e1cecd681205d1909822ba2d6d6769a
+ℹ Waiting for tx completion: 87213257c67ba8f3a1d8e494bbf8d0199e1cecd681205d1909822ba2d6d6769a
+✔ Tx completed

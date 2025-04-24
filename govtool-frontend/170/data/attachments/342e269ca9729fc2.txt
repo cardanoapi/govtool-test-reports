@@ -1,0 +1,6 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Otha.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: 6a89b9a40aaf24b99616fd20bb75d59a547dbf0524231747662bce5736c777d4
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()
