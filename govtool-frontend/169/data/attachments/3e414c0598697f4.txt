@@ -1,0 +1,6 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Maurine.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: 8e4706c6fff7fc6e8c0a0048c0ec27da3922261842fc337d3b38b684077330ac
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 429 ()
