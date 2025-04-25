@@ -1,0 +1,6 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Uploaded validus metadata to bucket
+ℹ Waiting for tx completion: 86546d502b48bd504d73e4441f738dba82843acd29c3ab9c3e96554b6ad7f515
+✔ Tx completed

@@ -1,0 +1,7 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Uploaded guardrail-script metadata to bucket
+✔ Uploaded capio metadata to bucket
+ℹ Waiting for tx completion: 2e7c6f855d4486305358cf8773005258ffbc4a52983491fd8c515892d6a0458f
+✔ Tx completed
