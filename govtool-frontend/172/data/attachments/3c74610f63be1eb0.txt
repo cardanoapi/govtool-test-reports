@@ -1,0 +1,6 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Uploaded calculus metadata to bucket
+ℹ Waiting for tx completion: ed68485eb86d1b397ce3842918d700af075f90c47ce65d383b65e072ec8ef049
+✔ Tx completed

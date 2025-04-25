@@ -1,0 +1,6 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Uploaded triduana metadata to bucket
+ℹ Waiting for tx completion: b16b459c432d3d13fbd63771fb1f3c74a60045be17b43cc97eb4e406ec12b8af
+✔ Tx completed
