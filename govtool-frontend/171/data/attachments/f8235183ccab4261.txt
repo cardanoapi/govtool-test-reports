@@ -1,0 +1,5 @@
+✔ Uploaded Brisa metadata to bucket
+ℹ Submitting tx: {"lock_id":"72383931b2fd1f17ceb1c5c197078a544fd8dc1fe0384dd05697b0e75201c2de","tx":{"certificates":[{"type":"registerdrep","key":"c684f0724ad8a239770ba7a879bb3afc5d1b3bd9373bcdbfe2017496","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Brisa","dataHash":"49f6cb7a9d23c77f97e6c30a6a310f89ec447acd8426616e1ece572c11d1474d"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58205a9a891c6b8d6f94dd528828e5c9c0c4f0cde86ee5bc60072cfb1170a7c9d53b"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: eeb896842ce95e3a4ac4dde8157df5583cd939640686b822069e6dabe8b3c28d
+ℹ Waiting for tx completion: eeb896842ce95e3a4ac4dde8157df5583cd939640686b822069e6dabe8b3c28d
+✔ Tx completed
