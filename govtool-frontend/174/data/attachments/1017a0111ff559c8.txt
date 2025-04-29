@@ -1,0 +1,4 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded claudeo metadata to bucket
+ℹ Waiting for tx completion: 3d6cc27d764e2ac28c8acd23644318b538c0e38b190ee7e9674b9955bc31d08b
+✔ Tx completed

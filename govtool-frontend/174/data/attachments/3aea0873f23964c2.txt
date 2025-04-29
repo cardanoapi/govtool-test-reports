@@ -1,0 +1,5 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Abigail.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: c93de9c99fb1f5130c67994cdadb35047c3f0b92c7a27e61583a7e3b3f726b76
+✔ Tx completed
