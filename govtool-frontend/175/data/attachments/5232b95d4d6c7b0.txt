@@ -1,0 +1,5 @@
+✔ Uploaded Genesis metadata to bucket
+ℹ Submitting tx: {"lock_id":"58edea7fc22041851d56fc989a7d51815105ab0cb26862539800e0109ecf0f95","tx":{"certificates":[{"type":"registerdrep","key":"59eeb2e4772185b49a8c06029e765859677336127900550993668c5c","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Genesis","dataHash":"3054be27748b77958cd646a1407b3d5a37997fbf60e54822879788c4c98018b6"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820812cabee6b1e67cff75d895a668a68be669aca6af8ca6d6cb4988d5153ee69e6"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 7284b526093b7706b8ebbde34304faea0aa650e059aaf3dfda85b1b543dd2e1b
+ℹ Waiting for tx completion: 7284b526093b7706b8ebbde34304faea0aa650e059aaf3dfda85b1b543dd2e1b
+✔ Tx completed

@@ -1,0 +1,7 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Uploaded guardrail-script metadata to bucket
+✔ Uploaded suppellex metadata to bucket
+ℹ Waiting for tx completion: 959598e0452469a2821a6482afbd5a5b4d86387296b074dcad364512ece4079f
+✔ Tx completed
