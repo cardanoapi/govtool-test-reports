@@ -1,0 +1,4 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded commodi metadata to bucket
+ℹ Waiting for tx completion: ab8d2f8d191e53c9ed4bbd57e114071f8e7c9554fe640b70c27dd624f21570b1
+✔ Tx completed

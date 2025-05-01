@@ -1,0 +1,5 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded guardrail-script metadata to bucket
+✔ Uploaded tonsor metadata to bucket
+ℹ Waiting for tx completion: 20f2fa4a8004e6c844c672351a82d838049d57590a01d4bdc1b3a0b3fb074563
+✔ Tx completed
