@@ -1,0 +1,5 @@
+✔ Uploaded Reuben metadata to bucket
+ℹ Submitting tx: {"lock_id":"969b2c1c34f175df23fdb0f9684ccb09679c4f72aca0dfea259aca6afdfd6a9e","tx":{"certificates":[{"type":"registerdrep","key":"5bd1b7d5f63b594f9fe797c4b968b5043074d715589a01f0539176ee","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Reuben","dataHash":"54dec6b606ea0b899c9f881e09610cd889be38cf0b0f1965388af3e7507c7a6f"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820791fcc93a673bbe2eece2d3b1e01e32fdc6d364d93dd0ee757c6d51739862ea4"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: c5cef9a51d5651eda27e1643ba6baea6db7f42479fa3ea94c2b56dfcfcc4b8e4
+ℹ Waiting for tx completion: c5cef9a51d5651eda27e1643ba6baea6db7f42479fa3ea94c2b56dfcfcc4b8e4
+✔ Tx completed

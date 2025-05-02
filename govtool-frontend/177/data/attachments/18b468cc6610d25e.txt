@@ -1,0 +1,5 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Uploaded vinculum metadata to bucket
+ℹ Waiting for tx completion: 629a32417e6842dde3ba7b90374c3f79c827a7ac2209a61684b664831350661d
+✔ Tx completed
