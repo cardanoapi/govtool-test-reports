@@ -1,0 +1,5 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Conrad.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: c7e0d68cb9c7e1d2c4eab45661cc653f43722b7114bd9f480cd439dc9066dc04
+✔ Tx completed
