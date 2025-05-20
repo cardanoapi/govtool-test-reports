@@ -27,9 +27,7 @@
       "description": "Tests conducted in the mainnet deployment environment",
       "tests": [
         { "name": "govtool-frontend" },
-        { "name": "govtool-backend" },
-        { "name": "nightly-govtool-frontend" },
-        { "name": "nightly-govtool-backend" }
+        { "name": "govtool-backend" }
       ]
     }
   ]
