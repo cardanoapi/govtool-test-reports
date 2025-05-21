@@ -1,0 +1,5 @@
+✔ Uploaded Christ metadata to bucket
+ℹ Submitting tx: {"lock_id":"e0b36a41244754a41145a25f65e12ec21141e1184fadeb134fc1ce8fadf8b6aa","tx":{"certificates":[{"type":"registerdrep","key":"6fb85376a5fa68071f54fc36417dee450cbb38666f653eb7643d5d3d","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Christ","dataHash":"07b3e62dbe0185d82dc47a7a0f96df623b924d49c00ba17ac56e07b656631d08"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820c31b70163e2aa7cccb1181424a4dc48cc06afff146902557c8adfa957b622634"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: e9c42bb8cc26b67a72e437b240ee6b6071447d004e6b046807ad1bb733282729
+ℹ Waiting for tx completion: e9c42bb8cc26b67a72e437b240ee6b6071447d004e6b046807ad1bb733282729
+✔ Tx completed
