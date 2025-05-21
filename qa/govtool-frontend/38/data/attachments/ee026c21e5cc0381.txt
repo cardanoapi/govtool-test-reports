@@ -1,0 +1,3 @@
+✔ Uploaded Mauricio.jsonld metadata to bucket
+ℹ Waiting for tx completion: 05887d32eee8174edbee4f99601221e6cc26a73b71d6d41ea7af037fba52fb9b
+✔ Tx completed

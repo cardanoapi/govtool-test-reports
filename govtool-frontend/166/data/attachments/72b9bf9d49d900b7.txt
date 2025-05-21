@@ -1,3 +1,0 @@
-✔ Uploaded Stanton.jsonld metadata to bucket
-ℹ Waiting for tx completion: d30bafaaf031ea2e3c7ddc5a30b3531587d002536e0dc68ba707d59798f99442
-✔ Tx completed

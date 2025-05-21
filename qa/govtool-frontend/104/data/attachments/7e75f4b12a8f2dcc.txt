@@ -1,0 +1,3 @@
+✔ Uploaded Edward.jsonld metadata to bucket
+ℹ Waiting for tx completion: a9b5998a99b1a173bb9eb3c2fd3806e599db20382bdb026bbc99cb4d39fb1889
+✔ Tx completed

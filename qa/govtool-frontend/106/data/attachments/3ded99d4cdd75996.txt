@@ -1,0 +1,3 @@
+✔ Uploaded Hettie.jsonld metadata to bucket
+ℹ Waiting for tx completion: f3f50418e9128ad820d2c9b66a10a30b95e9606fb3761c368c01dc5a65a98171
+✔ Tx completed

@@ -1,4 +1,0 @@
-govtool-frontend
-govtool-backend
-govtool-stress-testing
-nightly-govtool-backend

@@ -1,0 +1,3 @@
+✔ Uploaded Shane93.jsonld metadata to bucket
+ℹ Waiting for tx completion: 08db1986383c0165af772b6790d3c54673c0f645e2aa9194676a6f306e78adcb
+✔ Tx completed

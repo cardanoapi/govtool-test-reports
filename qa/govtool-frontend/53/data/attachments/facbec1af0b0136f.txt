@@ -1,0 +1,3 @@
+✔ Uploaded Mavis.jsonld metadata to bucket
+ℹ Waiting for tx completion: 90f130cd6f161f42afd44f178cab24b17953c7822d182daa3a2d8eb9c76db9cd
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Lexi.jsonld metadata to bucket
+ℹ Waiting for tx completion: 737e5d10d006cf5690f8016e6bd915a7dbf2dc3446cea1232c80a66bff15a7d3
+✔ Tx completed

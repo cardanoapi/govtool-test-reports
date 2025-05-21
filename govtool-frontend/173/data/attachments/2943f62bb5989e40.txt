@@ -1,6 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✖ Failed to load resource: the server responded with a status of 429 ()
-✖ Failed to load resource: the server responded with a status of 429 ()
-✔ Uploaded censura metadata to bucket
-ℹ Waiting for tx completion: 2e0d969e547f58226bf543cf33a7d4b615aa85ec26cbf5b3a45818bd72a31bc4
-✔ Tx completed

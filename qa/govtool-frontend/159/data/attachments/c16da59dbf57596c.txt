@@ -1,0 +1,3 @@
+✔ Uploaded Annie.jsonld metadata to bucket
+ℹ Waiting for tx completion: fdc7e86e7d0ef4bce5915d5519559bcd73c367c8c5d6aae2412a05d20a676866
+✔ Tx completed

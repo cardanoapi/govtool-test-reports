@@ -1,0 +1,4 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded vulariter metadata to bucket
+ℹ Waiting for tx completion: a98429f76324fb034b26b7f1f7cc7131df7e696bef16f62bbc7c2d3beb71f7c6
+✔ Tx completed

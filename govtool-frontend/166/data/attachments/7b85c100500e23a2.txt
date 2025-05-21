@@ -1,5 +1,0 @@
-✖ {e: Error: You are trying to connect with a wallet connected to mainnet. Please adjust your wallet sett…}
-✖ Error: You are trying to connect with a wallet connected to mainnet. Please adjust your wallet settings to connect to testnet or select a different wallet.
-    at Object.enable (https://preview.gov.tools/assets/index-Dhzq6xQ8.js:408:42753)
-    at async https://preview.gov.tools/assets/index-Dhzq6xQ8.js:408:55476
-    at async https://preview.gov.tools/assets/index-Dhzq6xQ8.js:760:19609

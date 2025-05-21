@@ -1,0 +1,3 @@
+✔ Uploaded Lance.jsonld metadata to bucket
+ℹ Waiting for tx completion: 1e49eca403161396a37f3d579ff06a5bbecb8772c585e8795d17da90de68b14b
+✔ Tx completed

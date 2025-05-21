@@ -1,0 +1,3 @@
+✔ Uploaded Lilyan.jsonld metadata to bucket
+ℹ Waiting for tx completion: ce157128c75b5778d36239983114a65b414b5840ce621b373f775141ef505d64
+✔ Tx completed

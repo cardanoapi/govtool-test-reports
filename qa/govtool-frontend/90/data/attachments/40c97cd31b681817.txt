@@ -1,0 +1,3 @@
+✔ Uploaded Lisandro.jsonld metadata to bucket
+ℹ Waiting for tx completion: 5ee46fbaf5a23c66a52e0f4e08e1face63e5df79f68c0f3f220ad7395855d5ec
+✔ Tx completed

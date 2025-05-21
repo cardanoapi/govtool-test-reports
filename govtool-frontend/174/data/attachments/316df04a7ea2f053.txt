@@ -1,4 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded compello metadata to bucket
-ℹ Waiting for tx completion: 4c30597a52c06e8e750eda82494874c11acecdb86d9a3db493d7eb5bb91bf075
-✔ Tx completed

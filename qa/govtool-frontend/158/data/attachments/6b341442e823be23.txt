@@ -1,0 +1,3 @@
+✔ Uploaded Matilda.jsonld metadata to bucket
+ℹ Waiting for tx completion: a016de57eed0698755e9dc7d806a27a94501019cb4310ce1ae4a1b31ffa5ee63
+✔ Tx completed

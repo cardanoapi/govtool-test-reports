@@ -1,3 +1,0 @@
-✔ Uploaded bonus metadata to bucket
-ℹ Waiting for tx completion: 46b89fb9d18a10479f78d953bdbcd64a972d69f83eeb77dbbb3974fe191ed323
-✔ Tx completed

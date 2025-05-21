@@ -146,8 +146,15 @@
         return data;
       }
 
-      function navigateToReport(reportName) {
-        window.location.href = `/govtool-test-reports/${reportName}`;
+      function navigateToReport(reportName, groupName) {
+        if (groupName == "Web App Boilerplate") {
+          window.location.href = `/govtool-test-reports/${reportName}`;
+          return;
+        }
+        const replaceDeploymentFromGroupName = groupName
+          .replace(/ Deployment/g, "")
+          .toLowerCase();
+        window.location.href = `/govtool-test-reports/${replaceDeploymentFromGroupName}/${reportName}`;
       }
 
       function renderCards(data) {
@@ -186,7 +193,7 @@
                             <path d="M2.19043 10.2336V5.76782L6 3.44751L9.80957 5.76782V10.2336L6 12.554L2.19043 10.2336ZM11.5 4.79126L11.2607 4.64478L6.26074 1.59204L6 1.43384L5.73926 1.59204L0.739258 4.64478L0.5 4.79126V11.2092L0.739258 11.3547L5.73926 14.4075L6 14.5667L6.26074 14.4075L11.2607 11.3547L11.5 11.2092V4.79126Z" stroke="black"/>
                           </svg>
                       </div>
-                      <span onclick="navigateToReport('${subTest.name}')" class="test-name">${subTest.name}</span> 
+                      <span onclick="navigateToReport('${subTest.name}', '${testName}')" class="test-name">${subTest.name}</span> 
                   </li>
               `;
           });

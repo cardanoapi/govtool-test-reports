@@ -1,0 +1,3 @@
+✔ Uploaded Gisselle.jsonld metadata to bucket
+ℹ Waiting for tx completion: c4ba57029d3f6ff371083859f0b5086b52b16319fd837d120ac73c7758cb1a47
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Kara.jsonld metadata to bucket
+ℹ Waiting for tx completion: b18371282a29cbce27949b91059c3cc4c7ad607238173d62bb3d180259b76c29
+✔ Tx completed

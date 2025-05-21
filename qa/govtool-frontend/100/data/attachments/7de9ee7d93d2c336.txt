@@ -1,0 +1,3 @@
+✔ Uploaded Kale.jsonld metadata to bucket
+ℹ Waiting for tx completion: 3247febe3efdc373f70269c842b238f37c1b3cca2f415ca31c1daf6f29a1dba6
+✔ Tx completed

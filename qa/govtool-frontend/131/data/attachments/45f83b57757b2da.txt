@@ -1,0 +1,3 @@
+✔ Uploaded Pearlie.jsonld metadata to bucket
+ℹ Waiting for tx completion: 2d17572984ac45c884d7f7005b16ac364c40a66b385122b3a3e477bdddfc2eae
+✔ Tx completed

@@ -1,0 +1,2 @@
+ℹ Waiting for tx completion: d296f64ee55f848e534194109c611ddb75a15e4202dde511efe23d14fc973a57
+✖ invalid json response body at https://kuber-govtool.cardanoapi.io/api/v3/utxo?txin=d296f64ee55f848e534194109c611ddb75a15e4202dde511efe23d14fc973a57%230 reason: Unexpected token < in JSON at position 0

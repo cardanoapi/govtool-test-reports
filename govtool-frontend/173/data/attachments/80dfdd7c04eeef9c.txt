@@ -1,8 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded Felicia.jsonld metadata to bucket
-✖ Failed to load resource: the server responded with a status of 429 ()
-✖ Failed to load resource: the server responded with a status of 406 ()
-✖ Failed to load resource: the server responded with a status of 429 ()
-ℹ Waiting for tx completion: 534aa7c4ae709fc46488941e5d961cabd966edd10ae03a1738c7ef16b8a297a8
-✔ Tx completed
-✖ Failed to load resource: the server responded with a status of 406 ()

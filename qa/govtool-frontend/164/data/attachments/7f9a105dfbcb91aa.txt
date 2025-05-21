@@ -1,0 +1,4 @@
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Uploaded statua metadata to bucket
+ℹ Waiting for tx completion: 4dc44252b4b7680953f3f9a6d4044968196df41dbf340223a91a825f8575e461
+✔ Tx completed

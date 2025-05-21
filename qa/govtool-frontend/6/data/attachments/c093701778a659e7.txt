@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"cf8303c3a1e0f22eb821ecc63f2366fd7c2ed5c3d5590473c7ca0217b29a9c3e","tx":{"outputs":[{"address":"addr_test1qzvyjvpzeg4amsc6mq9x59tpxazj7ffeznknpzj83ac2l7x7pmetvn2scaaskngjf3atfzkjfdvwtvngeujjpf50ezuq6rfydn","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582011abec096ef0ea7edbeeee01a1a3f0e9f24a7225c2ee99687fb328146fe85ba6"},"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"],"changeAddress":"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"}}
+✔ Tx submitted: e457f494bc5227ec6be3dcf6f5deb28a0a51af476e4c6c5dbcd52822c8a93ed3
+ℹ Waiting for tx completion: e457f494bc5227ec6be3dcf6f5deb28a0a51af476e4c6c5dbcd52822c8a93ed3
+✔ Tx completed
+✔ Uploaded Tatum.jsonld metadata to bucket
+ℹ Waiting for tx completion: 5c87088e9cdccd85faa8048e17ff9336a285340bbe52c36953e08811c2558ad4
+✔ Tx completed

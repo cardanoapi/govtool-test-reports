@@ -1,5 +1,0 @@
-✔ Uploaded Lavern metadata to bucket
-ℹ Submitting tx: {"lock_id":"e19bc267c4e5d97b9b4901a14e7691b8b4611cefa0b98eca800fd8b2e9927386","tx":{"certificates":[{"type":"registerdrep","key":"686616706b50edd26012c2d178eeb77b523391f1053509fcdbc340f7","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Lavern","dataHash":"5f74488b2cf2a3b79173b7608439b0b3e779268ddfc37fc1ad2e5b1a970b3ab2"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"582081e22eeafeb45078578f6182bab52acbb5fb5e4e0b5521cd1d890d5794b68dbe"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
-✔ Tx submitted: 2449bfd3dde646d4b1a9cd6e497af8528af853250ec0bec95c16ad0905fa9fe0
-ℹ Waiting for tx completion: 2449bfd3dde646d4b1a9cd6e497af8528af853250ec0bec95c16ad0905fa9fe0
-✔ Tx completed

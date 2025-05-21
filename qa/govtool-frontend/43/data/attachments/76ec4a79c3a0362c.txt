@@ -1,0 +1,4 @@
+ℹ Waiting for tx completion: 8a2db6a62496c7bf94767a298cc96ccbb803222893220ded983ac8727bacd641
+✔ Tx completed
+ℹ Waiting for tx completion: bd2ed30e3b070a39333bd8c9626931aa744b0125937b8bc9a8a207f53fd54908
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Sylvester.jsonld metadata to bucket
+ℹ Waiting for tx completion: 3d0270f7c7b370f55ca73c380730e4add62986df05b8cb6466b4ce9a7f790ca8
+✔ Tx completed

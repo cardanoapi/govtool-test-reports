@@ -1,0 +1,3 @@
+✔ Uploaded Courtney.jsonld metadata to bucket
+ℹ Waiting for tx completion: c62a444702382639ccc376fdebcee07b97558bd83ffc927810966dd9487f7d3e
+✔ Tx completed

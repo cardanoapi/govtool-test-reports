@@ -1,0 +1,3 @@
+✔ Uploaded Chasity.jsonld metadata to bucket
+ℹ Waiting for tx completion: a7c2f527e51626148050d9530042065791b363909bb250ef5ed4901d9b86b110
+✔ Tx completed

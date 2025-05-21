@@ -1,7 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded Elise.jsonld metadata to bucket
-✖ Failed to load resource: the server responded with a status of 406 ()
-✖ Failed to load resource: the server responded with a status of 429 ()
-ℹ Waiting for tx completion: e2e3d003a33c772a20b75f9525147a0ea4e8f0a4862adf84028f69c5838d1c62
-✖ Failed to load resource: the server responded with a status of 429 ()
-✔ Tx completed

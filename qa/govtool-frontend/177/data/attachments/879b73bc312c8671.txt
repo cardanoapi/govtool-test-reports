@@ -1,0 +1,7 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Henry.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: 063defe564ae90cc2085a725c8dfa12ec687284ce69bf5f8fcb7c9a0c37a8151
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()

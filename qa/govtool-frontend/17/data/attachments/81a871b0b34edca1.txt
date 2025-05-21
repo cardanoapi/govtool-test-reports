@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"70275cbc1e101fe1c6dbdda23e48d4aed58a20f0b6997276c077e403ddd7a8aa","tx":{"outputs":[{"address":"addr_test1qpyz7ztpfx4h74kmlc4m3yt28qc33256r53e4raqru2xx68neca95l4wy7mp9rxf4g3d233kdr3tj9k3aemq8ev6hynsrjeev2","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820d68b122c16aae7ae645c1800368b1e43a744498745e3322bd05ddbcce5320a89"},"addr_test1qq5vwxwg3erzu00fe3a4nct0kj4cvnunqtn90hjtfg5j3f2l7sn8wfuzjvs7pu9ql6lqzkng5dacjpdfts5sqcks507q6hc2xs"],"changeAddress":"addr_test1qq5vwxwg3erzu00fe3a4nct0kj4cvnunqtn90hjtfg5j3f2l7sn8wfuzjvs7pu9ql6lqzkng5dacjpdfts5sqcks507q6hc2xs"}}
+✔ Tx submitted: 19781ef779265298902497da227871c139d3514eb9f37d3c0dce03853e65d101
+ℹ Waiting for tx completion: 19781ef779265298902497da227871c139d3514eb9f37d3c0dce03853e65d101
+✔ Tx completed
+✔ Uploaded Harrison.jsonld metadata to bucket
+ℹ Waiting for tx completion: c073de12113cf38a08f6c4f23f1f52adbb250a7eccf37112a4b532eac3de3496
+✔ Tx completed

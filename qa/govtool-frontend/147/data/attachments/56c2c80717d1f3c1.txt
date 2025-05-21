@@ -1,0 +1,3 @@
+✔ Uploaded Larissa.jsonld metadata to bucket
+ℹ Waiting for tx completion: d1d19bf37615674bd7138b3a64d849706cdb6ff592f69c55203f011483b0fa2e
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Zula.jsonld metadata to bucket
+ℹ Waiting for tx completion: 52f4fa6c5b4600c161b8e48e101c4324c7ac62956f1bba0ee51d483470b4b98e
+✔ Tx completed

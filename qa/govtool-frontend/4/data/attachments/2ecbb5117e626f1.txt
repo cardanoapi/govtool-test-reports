@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"4eeaedce2bc1f1e4e97e1fa5aa2a663599744d4c8074f0626c3a20cb4040f318","tx":{"outputs":[{"address":"addr_test1qpcj9kz6ewd7xqptqxvsmgd3fuc8lfv0shztjwlvtk00533msdv5s82jpuphm3up3g0l9j0l4xy2jadm0fasya6cea3q6z35dt","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582011abec096ef0ea7edbeeee01a1a3f0e9f24a7225c2ee99687fb328146fe85ba6"},"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"],"changeAddress":"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"}}
+✔ Tx submitted: fbbc95b57e7c982f8fe1f31c88f522f9958b6c1031506c806595ef23533964ac
+ℹ Waiting for tx completion: fbbc95b57e7c982f8fe1f31c88f522f9958b6c1031506c806595ef23533964ac
+✔ Tx completed
+✔ Uploaded Jacklyn.jsonld metadata to bucket
+ℹ Waiting for tx completion: 188b7d5700db77a59a06466dbf56c7969b57f49993d3a8326dd9dd5cbf04ce11
+✔ Tx completed

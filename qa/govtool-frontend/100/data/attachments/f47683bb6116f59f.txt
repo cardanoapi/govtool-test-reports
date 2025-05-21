@@ -1,0 +1,3 @@
+✔ Uploaded Reymundo.jsonld metadata to bucket
+ℹ Waiting for tx completion: 7a17868ed3b77eddd8f2770fbad8cb57bf403ce28308739e03a9da638472e616
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Adrianna.jsonld metadata to bucket
+ℹ Waiting for tx completion: ce8ade4d647fc2c36c2627d0009aacf4093edca17a621079cf50775965d1f6f0
+✔ Tx completed

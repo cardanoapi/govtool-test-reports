@@ -1,4 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded magni metadata to bucket
-ℹ Waiting for tx completion: 888de20bca99f0bd8504580352d6c9adb8aaf21e9a987ae3d109f6665c87f456
-✔ Tx completed

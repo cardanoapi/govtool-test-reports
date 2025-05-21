@@ -1,5 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 429 ()
-✔ Uploaded guardrail-script metadata to bucket
-✔ Uploaded corrupti metadata to bucket
-ℹ Waiting for tx completion: d5c820e233854225bb5d8b26c2b8cb81609797d7de9ea21a6da21024accf2aef
-✔ Tx completed

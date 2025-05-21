@@ -1,0 +1,3 @@
+✔ Uploaded Alexis.jsonld metadata to bucket
+ℹ Waiting for tx completion: 3a23ad4da17a4711540641b7af10be39c644be6e9b8e0f8de290ec18709ccd6e
+✔ Tx completed

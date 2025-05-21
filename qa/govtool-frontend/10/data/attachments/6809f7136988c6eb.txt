@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"9043cdfb895f7a0172d039e4eb16011720b3034c53d43cb3d621ddc581a8e062","tx":{"certificates":[{"type":"registerdrep","key":"666cd718b8cd4700527490900f7bb80e198938627ddef9b061854a62","anchor":{"url":"https://bit.ly/3zCH2HL","dataHash":"1111111111111111111111111111111111111111111111111111111111111111"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58205a18ca7750a7cba75220646212ab752da48693312df02fdc9b5b76226a85b7ff"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820eca26da6e4f9105791986f4b39e8d3a4db03ebd702ddfe66f50644af9677504b"},"addr_test1qpx2l7c77um4f5jq0gqy0p7hmtrt8hc73wjlshpjfqzqepn8zsdqe995uk5c4yj9cy6wlwt4dvxaly2v6m9het8665pqdhcl24"],"changeAddress":"addr_test1qpx2l7c77um4f5jq0gqy0p7hmtrt8hc73wjlshpjfqzqepn8zsdqe995uk5c4yj9cy6wlwt4dvxaly2v6m9het8665pqdhcl24"}}
+✔ Tx submitted: cc02d506ce8240df2197ee4556c411aed1c1f6fb726b28bc6eca6360b5096864
+ℹ Waiting for tx completion: cc02d506ce8240df2197ee4556c411aed1c1f6fb726b28bc6eca6360b5096864
+✔ Tx completed
+ℹ Waiting for tx completion: 481c25ecb210a1c955a723ebb11fb171b86f25a4c18809bae928d3a046149e28
+✔ Tx completed
+Delegated to drep1vekdwx9ce4rsq5n5jzgq77acpcvcjwrz0h00nvrps49xy0rtp6y

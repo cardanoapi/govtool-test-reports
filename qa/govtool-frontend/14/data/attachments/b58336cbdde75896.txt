@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"30b3175a0d8af7807b21d55e6900135aa018ac429b608b438ba18d9d03d1a7e8","tx":{"outputs":[{"address":"addr_test1qplp5dx8hkdezfcu9a4sz5xcxcnq7t0ym0azpm2zp92zk7harxnfz9wmjgahf35mfxn35axs2a2m8gt3kma2fs650xkqhv0wqa","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58208c80febfb71a5771142ae979375c271e505b15b125eb1b579fcf87da2d08a710"},"addr_test1qrgpjmw9rs2ag052qezsfqg4603yandk99mk7gmc0wj638cmn282qlzch7lwt8a5rafue838dcwfdpvw8kz2pgcvkmuqvw2h0a"],"changeAddress":"addr_test1qrgpjmw9rs2ag052qezsfqg4603yandk99mk7gmc0wj638cmn282qlzch7lwt8a5rafue838dcwfdpvw8kz2pgcvkmuqvw2h0a"}}
+✔ Tx submitted: 3b441ab9d8b94815257adc14a99475577db62c15315129412645c40db661d70f
+ℹ Waiting for tx completion: 3b441ab9d8b94815257adc14a99475577db62c15315129412645c40db661d70f
+✔ Tx completed
+✔ Uploaded Delmer.jsonld metadata to bucket
+ℹ Waiting for tx completion: 0bb7d5a815cb08d265a61ad1918ed05a4fa69a9251cbd6a4c6f821ac573dd4b8
+✔ Tx completed

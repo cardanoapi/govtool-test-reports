@@ -1,3 +1,0 @@
-✔ Uploaded Myrtice.jsonld metadata to bucket
-ℹ Waiting for tx completion: 123308c68fa5b6f6540634f69a3184a7e85401e3c7bfa3a9adbb5bdcee539c08
-✔ Tx completed

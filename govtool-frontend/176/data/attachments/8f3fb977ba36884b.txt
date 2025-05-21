@@ -1,5 +1,0 @@
-✔ Uploaded Arnulfo metadata to bucket
-ℹ Submitting tx: {"lock_id":"cb7a34c6d2b2caf5ad6c3c96894878f303c73fb53d9b8bf3d6864126a1de331d","tx":{"certificates":[{"type":"registerdrep","key":"7bf2534adf4b9875e520ac62b67b1a57bfa4b8987d15da16c5dee7ed","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Arnulfo","dataHash":"bdab7728407705559aa31d337d9f810f2c76b2f523c77ec310d3698c7f306937"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58202218de98159fa8b50a61ca74f1ba3357c1cdb98d331a145933e666313a8e8ae5"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
-✔ Tx submitted: c9cba69d61e70e1f15369f32d5ab1f9b8c3cc2341e1d8fbe1a9457ec3439d365
-ℹ Waiting for tx completion: c9cba69d61e70e1f15369f32d5ab1f9b8c3cc2341e1d8fbe1a9457ec3439d365
-✔ Tx completed

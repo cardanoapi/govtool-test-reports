@@ -1,0 +1,3 @@
+✔ Uploaded Rocio.jsonld metadata to bucket
+ℹ Waiting for tx completion: feaa35c75cf7fe34050ac72eb56d14b056474181279869b4b3c4bcebe1d18e07
+✔ Tx completed

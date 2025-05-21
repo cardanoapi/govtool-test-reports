@@ -1,0 +1,3 @@
+✖ DRep Registration - not using anchor
+ℹ Waiting for tx completion: b32c4c0421f6de3f5a2b1c4ef1d720c1fe5e03f6402d9c1c09547bf07b4e59ec
+✔ Tx completed

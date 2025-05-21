@@ -1,0 +1,11 @@
+ℹ Submitting tx: {"lock_id":"428199bf15fcfb9186dfca8010ed27e2e90a06c7ab6c7496ddc0fc9867641484","tx":{"certificates":[{"type":"registerdrep","key":"a409e4a930489d8b5969e6d9ba28ba5faa7e5ef41e62e86abd0709b5","anchor":{"url":"https://bit.ly/3zCH2HL","dataHash":"1111111111111111111111111111111111111111111111111111111111111111"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820be5155b59c85c722ca236e9250c24c916752aa31532033d7488d2d1fb85c9364"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820d68b122c16aae7ae645c1800368b1e43a744498745e3322bd05ddbcce5320a89"},"addr_test1qq5vwxwg3erzu00fe3a4nct0kj4cvnunqtn90hjtfg5j3f2l7sn8wfuzjvs7pu9ql6lqzkng5dacjpdfts5sqcks507q6hc2xs"],"changeAddress":"addr_test1qq5vwxwg3erzu00fe3a4nct0kj4cvnunqtn90hjtfg5j3f2l7sn8wfuzjvs7pu9ql6lqzkng5dacjpdfts5sqcks507q6hc2xs"}}
+✔ Tx submitted: 6f97aac9cca103c14b62e1f39a22202e1d926476ef0fa0b147ced043c5fb1bcc
+ℹ Waiting for tx completion: 6f97aac9cca103c14b62e1f39a22202e1d926476ef0fa0b147ced043c5fb1bcc
+✔ Tx completed
+ℹ Submitting tx: {"lock_id":"abc541fea5c18b9d26e7e120bc05b9344946a5377d403181be038f692de51554","tx":{"outputs":[{"address":"addr_test1qr73pvj3lyudm3vqm6ep0wht58xga0uu8xy927x9sxkapeayp8j2jvzgnk94j60xmxaz3wjl4fl9aaq7vt5x40g8px6skkk698","value":"40A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820d68b122c16aae7ae645c1800368b1e43a744498745e3322bd05ddbcce5320a89"},"addr_test1qq5vwxwg3erzu00fe3a4nct0kj4cvnunqtn90hjtfg5j3f2l7sn8wfuzjvs7pu9ql6lqzkng5dacjpdfts5sqcks507q6hc2xs"],"changeAddress":"addr_test1qq5vwxwg3erzu00fe3a4nct0kj4cvnunqtn90hjtfg5j3f2l7sn8wfuzjvs7pu9ql6lqzkng5dacjpdfts5sqcks507q6hc2xs"}}
+✔ Tx submitted: b1138aec256b1078d0ed1b39e996c75f8c85090edca38cd630dab5d42ac5ce88
+ℹ Waiting for tx completion: b1138aec256b1078d0ed1b39e996c75f8c85090edca38cd630dab5d42ac5ce88
+✔ Tx completed
+✔ Uploaded Vote_Context.jsonld metadata to bucket
+ℹ Waiting for tx completion: 01f89728f5ad5dd09a6bca824bffd8ef3c9513791ef312d74a5b9d9ddd2366f7
+✔ Tx completed

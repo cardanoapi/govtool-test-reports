@@ -1,0 +1,4 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded totam metadata to bucket
+ℹ Waiting for tx completion: 047912d2b1c2425f3ed9dc5cbce994e82c091764a8ca51d6e6e7a2c02f11280e
+✔ Tx completed

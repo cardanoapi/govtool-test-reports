@@ -1,0 +1,3 @@
+✔ Uploaded viduo metadata to bucket
+ℹ Waiting for tx completion: 5485c5a69ed352ca926ddbe2ab3fa472d62fe1e87275adf94bfcc696b9ce5755
+✔ Tx completed

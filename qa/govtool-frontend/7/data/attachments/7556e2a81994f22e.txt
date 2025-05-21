@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"7940346dcbfdfc48df8d02fce30673c6dff0bf2d80e036ea85d54249ab70dc53","tx":{"outputs":[{"address":"addr_test1qrp98ddaegg3unenj5nkudl27lzt50gpr7ckvrleflu28ycmmm38vqddv5mme0cg56m74zyazxr9exph3vwnz5unczmqzgnhru","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582011abec096ef0ea7edbeeee01a1a3f0e9f24a7225c2ee99687fb328146fe85ba6"},"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"],"changeAddress":"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"}}
+✔ Tx submitted: c5be69d9ff0ca64735bfab8471f8307b7180faad7ef6d7bae387380ae3c97b6d
+ℹ Waiting for tx completion: c5be69d9ff0ca64735bfab8471f8307b7180faad7ef6d7bae387380ae3c97b6d
+✔ Tx completed
+✔ Uploaded Freda.jsonld metadata to bucket
+ℹ Waiting for tx completion: 8d19232eeb383f26de2e2df97728fd8526000a13aea7ee05cb79879b03666c6f
+✔ Tx completed

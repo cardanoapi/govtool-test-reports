@@ -1,0 +1,4 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded adipisci metadata to bucket
+ℹ Waiting for tx completion: 89b7456f68cca9b7965c97cd26cec1c9e3bb40f8e6a2633b944c2d97e485f46c
+✔ Tx completed

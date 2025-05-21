@@ -1,0 +1,3 @@
+✔ Uploaded Anabel.jsonld metadata to bucket
+ℹ Waiting for tx completion: 120eef5af64f56fc0d820a64778b7222fec905667738d407038d76dc212002bc
+✔ Tx completed

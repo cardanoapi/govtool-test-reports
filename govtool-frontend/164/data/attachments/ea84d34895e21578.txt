@@ -1,3 +1,0 @@
-✔ Uploaded Adella.jsonld metadata to bucket
-ℹ Waiting for tx completion: 56812d11c2c4ff2da6c7e0850f705313453bb0841fda1fbde9ed35dbe18dd322
-✔ Tx completed

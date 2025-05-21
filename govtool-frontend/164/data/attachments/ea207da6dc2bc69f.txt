@@ -1,4 +1,0 @@
-✔ Uploaded guardrail-script metadata to bucket
-✔ Uploaded possimus metadata to bucket
-ℹ Waiting for tx completion: ed347cb6359102ab6c59f402b667fefc8da338d7945d75f41a852239b4202c46
-✔ Tx completed

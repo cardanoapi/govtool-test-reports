@@ -1,0 +1,3 @@
+✔ Uploaded Alda.jsonld metadata to bucket
+ℹ Waiting for tx completion: 5c31e1f154f640862b98feb5c49e574cc6b57851dd1d9c56e6093eaaeb290b42
+✔ Tx completed

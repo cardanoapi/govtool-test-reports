@@ -1,0 +1,3 @@
+✔ Uploaded Jeffrey.jsonld metadata to bucket
+ℹ Waiting for tx completion: afb8c6dba66181793b2d2669a629f9d2b7c1bba52ba43d6e10b3e54be0d8ff02
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Soledad.Weimann28.jsonld metadata to bucket
+ℹ Waiting for tx completion: 9596008987b0229f38c57526559c52ce1c90b95569e2fe0714b8134509a62a66
+✔ Tx completed

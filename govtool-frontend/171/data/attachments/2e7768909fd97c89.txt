@@ -1,5 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded Avis.jsonld metadata to bucket
-✖ Failed to load resource: the server responded with a status of 406 ()
-ℹ Waiting for tx completion: 2569ea2990f0c24697dbbbe8658f9ca8776cf3ff23c07de6d3176752191419df
-✔ Tx completed

@@ -1,0 +1,6 @@
+✔ Uploaded Marty.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: 7c927b97b0d69e992f6ff5bba2929c82bea9c789dfcf5210c68af586f9bdbe7b
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()

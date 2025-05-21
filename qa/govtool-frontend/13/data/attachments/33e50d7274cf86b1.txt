@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"411c2f39d47ac6ad92310055df445bd919487b22a316f1792376d5899b3c50b1","tx":{"outputs":[{"address":"addr_test1qqmlkztslsl7aexpfs5zpcjhnwftl60zw7pn0f522n5xg9p3ts2gjra0c0xhtw88ynyw30rt8nltk9zmnqeshn9eus3qzwz5as","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582045e8a6e2d9800024ffe78ef8c0ef3632f79171c4c7c183dc353b603cb3821b49"},"addr_test1qqzsvzzp9jrkdgxewqx52cghyjv0ryzgr7eawx04dr3n68nmcx82t77tw2c7e9j8z0xfam87j9ea604fzpx0lmvqyjdq28pgf2"],"changeAddress":"addr_test1qqzsvzzp9jrkdgxewqx52cghyjv0ryzgr7eawx04dr3n68nmcx82t77tw2c7e9j8z0xfam87j9ea604fzpx0lmvqyjdq28pgf2"}}
+✔ Tx submitted: 79a8bfdbdc7766d0a76264b290a8390344492fa07eb9429f4e3a33211f190a22
+ℹ Waiting for tx completion: 79a8bfdbdc7766d0a76264b290a8390344492fa07eb9429f4e3a33211f190a22
+✔ Tx completed
+✔ Uploaded Royal.jsonld metadata to bucket
+ℹ Waiting for tx completion: 5c3de1d500561d09afb821fe60bb029b8d98ba7be7e4be75aa6d1a826f4a0d41
+✔ Tx completed

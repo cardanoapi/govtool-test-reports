@@ -1,3 +1,0 @@
-✔ Uploaded agnosco metadata to bucket
-ℹ Waiting for tx completion: daf79fba5b75a0922e717532fc1c6e9e2985cc72a6818894dd0150f5e328e618
-✔ Tx completed

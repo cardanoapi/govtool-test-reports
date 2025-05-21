@@ -1,7 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded Tyrell.jsonld metadata to bucket
-✖ Failed to load resource: the server responded with a status of 406 ()
-✖ Failed to load resource: the server responded with a status of 429 ()
-ℹ Waiting for tx completion: 05e26e84461ae3000c53281a6dfef6123ce3657eb4383e394810681a563a752f
-✔ Tx completed
-✖ Failed to load resource: the server responded with a status of 406 ()

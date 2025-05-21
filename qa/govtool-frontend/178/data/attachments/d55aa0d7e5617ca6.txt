@@ -1,0 +1,5 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Keven.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: c95f8ba904fb0f451215f332411e4e0c89b54c1cc07a3c95b55c6b2eecf8a850
+✔ Tx completed

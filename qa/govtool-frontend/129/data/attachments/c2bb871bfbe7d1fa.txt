@@ -1,0 +1,3 @@
+✔ Uploaded Melba.jsonld metadata to bucket
+ℹ Waiting for tx completion: 6dc98eb5978c353db48d0c44405b8a82c7ddd5e6a0bd44d7293aa083fa147c8c
+✔ Tx completed

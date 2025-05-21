@@ -1,0 +1,3 @@
+✔ Uploaded Bradford.jsonld metadata to bucket
+ℹ Waiting for tx completion: 3c78a4504b6626d5c65a7b22a33e73bbf1cc8f5a493e012a728a95b66c180d73
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Jazlyn.jsonld metadata to bucket
+ℹ Waiting for tx completion: 7fde01e5b6af235a7a602389a8d00548b7fa48e2870b8d4a4fbd88759c5f587c
+✔ Tx completed

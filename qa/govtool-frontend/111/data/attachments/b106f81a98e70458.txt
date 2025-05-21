@@ -1,0 +1,3 @@
+✔ Uploaded Pink.jsonld metadata to bucket
+ℹ Waiting for tx completion: 3b1426ad03f106406335bcedc4b8a64523928520af13f58322d10facc403c368
+✔ Tx completed

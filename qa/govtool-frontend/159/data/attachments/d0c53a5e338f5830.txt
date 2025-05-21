@@ -1,0 +1,3 @@
+✔ Uploaded Triston.jsonld metadata to bucket
+ℹ Waiting for tx completion: 514e72b94974556673fe9b395b2ccb9fae13a66e64ae7f00d4bd4607f8682b59
+✔ Tx completed

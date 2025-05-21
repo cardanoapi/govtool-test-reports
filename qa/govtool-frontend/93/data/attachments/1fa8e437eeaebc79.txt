@@ -1,0 +1,3 @@
+✔ Uploaded Jermaine.jsonld metadata to bucket
+ℹ Waiting for tx completion: c9900801f225e6d968d64f18bd1c58f3b74f2c6cf6202d0a2ea6e2861f283abb
+✔ Tx completed

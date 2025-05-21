@@ -1,0 +1,9 @@
+✖ Timed out 5000ms waiting for expect(locator).toBeVisible()
+
+Locator: getByTestId('drep1gs6hgd2eh2uc0w04t3a2dtzu74jf89l4q3wttu2lauch65tnenp-delegate-button')
+Expected: visible
+Received: hidden
+Call log:
+  - expect.toBeVisible with timeout 5000ms
+  - waiting for getByTestId('drep1gs6hgd2eh2uc0w04t3a2dtzu74jf89l4q3wttu2lauch65tnenp-delegate-button')
+

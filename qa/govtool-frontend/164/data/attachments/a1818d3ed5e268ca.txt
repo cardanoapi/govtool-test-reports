@@ -1,0 +1,3 @@
+✔ Uploaded Cali.jsonld metadata to bucket
+ℹ Waiting for tx completion: 5a5a7c95a307b46dd05fc43eb70975e9f667608ae00e99fd5833cb7b53ec48cf
+✔ Tx completed

@@ -1,3 +1,0 @@
-✔ Uploaded Maxwell.jsonld metadata to bucket
-ℹ Waiting for tx completion: cb583eddf3cef1011964dd8a658672a25371ab3f0fd2aaaf7f523157cbef404b
-✔ Tx completed

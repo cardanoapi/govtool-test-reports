@@ -1,6 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✖ Failed to load resource: the server responded with a status of 429 ()
-✖ Failed to load resource: the server responded with a status of 429 ()
-✔ Uploaded annus metadata to bucket
-ℹ Waiting for tx completion: 375dc268d60cd71f81328d7cf322810870f7be699aa9346eeb20d543524d423d
-✔ Tx completed

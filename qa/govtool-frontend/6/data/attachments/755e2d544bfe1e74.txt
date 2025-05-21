@@ -1,0 +1,10 @@
+ℹ Submitting tx: {"lock_id":"8ed695a03a82dded28f53d6b97b0e1ed7eb51586a3eb63cc5015c3e032e18ab0","tx":{"certificates":[{"type":"registerdrep","key":"025b6b4655c4e5fb87a9e0c2d04c26b5bf4a733be066eff3837f664e","anchor":{"url":"https://bit.ly/3zCH2HL","dataHash":"1111111111111111111111111111111111111111111111111111111111111111"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58201379cfecc3ba06e2b5b7855095af6b277c2eecb72c2abb5f130b272bf0bbfe25"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582011abec096ef0ea7edbeeee01a1a3f0e9f24a7225c2ee99687fb328146fe85ba6"},"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"],"changeAddress":"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"}}
+✔ Tx submitted: 486bc078975ae8d8d69f5d3e207d9ab653446be6d97e85a8a7e9ff58089a3fbe
+ℹ Waiting for tx completion: 486bc078975ae8d8d69f5d3e207d9ab653446be6d97e85a8a7e9ff58089a3fbe
+✔ Tx completed
+ℹ Submitting tx: {"lock_id":"81baebfaa643cbad579e8b112ea3ea6bfe6d73950d7fd159bb11ff315342034b","tx":{"outputs":[{"address":"addr_test1qr5u0meayy7eaj0ww5qwttwcg89kzh9kl4wf9ldledqkeeqztd45v4wyuhac020qctgycf44ha98xwlqvmhl8qmlve8q4yazqj","value":"40A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582011abec096ef0ea7edbeeee01a1a3f0e9f24a7225c2ee99687fb328146fe85ba6"},"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"],"changeAddress":"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"}}
+✔ Tx submitted: 2523900151d980a65e91c9228d15f1cf2059a669e4c48d2963bbab578ac705bf
+ℹ Waiting for tx completion: 2523900151d980a65e91c9228d15f1cf2059a669e4c48d2963bbab578ac705bf
+✔ Tx completed
+ℹ Waiting for tx completion: 63326c604ad2ea98acedf1e5f206faa8dbc1cf74b58d6d7edbeabb82fe1aaf8d
+✔ Tx completed

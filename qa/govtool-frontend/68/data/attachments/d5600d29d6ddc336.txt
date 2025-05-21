@@ -1,0 +1,3 @@
+✔ Uploaded Samson.jsonld metadata to bucket
+ℹ Waiting for tx completion: 96703fec2e0651551eee273740bb033f9561b1175ae1cd07e8f5dc1ab82f928e
+✔ Tx completed

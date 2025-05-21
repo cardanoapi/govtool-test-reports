@@ -1,0 +1,3 @@
+✔ Uploaded Kyle.jsonld metadata to bucket
+ℹ Waiting for tx completion: e430752b39be4a6ab9002dc274b7c01ecff1f8fa9eb6b714bea41c95713a9a45
+✔ Tx completed

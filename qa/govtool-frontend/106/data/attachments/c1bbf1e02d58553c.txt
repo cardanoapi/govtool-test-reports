@@ -1,0 +1,3 @@
+✔ Uploaded Aida.jsonld metadata to bucket
+ℹ Waiting for tx completion: 6d8c7809f055d23432addfb68e69f499afa822362e7051b1a518883abdaa6087
+✔ Tx completed

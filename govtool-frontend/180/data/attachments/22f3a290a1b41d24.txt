@@ -1,5 +1,0 @@
-✔ Uploaded Mercedes metadata to bucket
-ℹ Submitting tx: {"lock_id":"412ff980d92e38a80519b4f9245c97f0507c0929edaa984668af9544869c9519","tx":{"certificates":[{"type":"registerdrep","key":"ab274bf9bc116f82a1c689509486a9d61879036f26cdfcf5d23e3650","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Mercedes","dataHash":"f93f3b31afa062e945360f2c88042a996a2a258f98ebc3e9d5b0d6c5eb0cd7cf"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58209f78c005fdd17506931bac13d6964d052d747bcf2b62550c50591d64ed75f357"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
-✔ Tx submitted: 9625884ab74991221a80d11e2ae14c10f2c613b5e8f591d9ed1d333134817a96
-ℹ Waiting for tx completion: 9625884ab74991221a80d11e2ae14c10f2c613b5e8f591d9ed1d333134817a96
-✔ Tx completed

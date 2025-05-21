@@ -1,3 +1,0 @@
-✔ Uploaded Dejuan.jsonld metadata to bucket
-ℹ Waiting for tx completion: b08c8a315ba63d8b41b1a00697404d3ae34332dec212784ec1de0f80c3dd2fff
-✔ Tx completed

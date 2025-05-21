@@ -1,3 +1,0 @@
-✔ Uploaded neque metadata to bucket
-ℹ Waiting for tx completion: 9d5dbbbe3b4ea449fd4a7078263c33aad83e8d05b0d7dcf7b57f7887e18a55f2
-✔ Tx completed

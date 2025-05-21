@@ -1,0 +1,5 @@
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Uploaded guardrail-script metadata to bucket
+✔ Uploaded traho metadata to bucket
+ℹ Waiting for tx completion: 186ab2a1a02f38761ddd37c20c1b29c0a81d28abee69103f134cce2e72267080
+✔ Tx completed

@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"5d345dec284c99c9d9bffdde000772bf7fd83bd9b1d09d009366d7498ec095e0","tx":{"outputs":[{"address":"addr_test1qz62kf3m7t3xksnn7zw7tg42mdpvv3cyxszhjkeupcscwh9myhxl78eqtx0hv6fv4wcgrhj5cdr66y66ht450gnp77tsc68a0q","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820eca26da6e4f9105791986f4b39e8d3a4db03ebd702ddfe66f50644af9677504b"},"addr_test1qpx2l7c77um4f5jq0gqy0p7hmtrt8hc73wjlshpjfqzqepn8zsdqe995uk5c4yj9cy6wlwt4dvxaly2v6m9het8665pqdhcl24"],"changeAddress":"addr_test1qpx2l7c77um4f5jq0gqy0p7hmtrt8hc73wjlshpjfqzqepn8zsdqe995uk5c4yj9cy6wlwt4dvxaly2v6m9het8665pqdhcl24"}}
+✔ Tx submitted: a233e5134bbc9dd7485bb1d872d2c3a2bae0f6a5ff149ef0c22ea366d8be0356
+ℹ Waiting for tx completion: a233e5134bbc9dd7485bb1d872d2c3a2bae0f6a5ff149ef0c22ea366d8be0356
+✔ Tx completed
+✔ Uploaded Dino.jsonld metadata to bucket
+ℹ Waiting for tx completion: f5fcf12042901d53ce763f51744f6ff63e2f84caa6a29c80da23ed66faed11fc
+✔ Tx completed

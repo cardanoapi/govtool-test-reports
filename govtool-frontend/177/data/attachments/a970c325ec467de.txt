@@ -1,5 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded Garland.jsonld metadata to bucket
-✖ Failed to load resource: the server responded with a status of 406 ()
-ℹ Waiting for tx completion: 1bfc5dc51bcac02f2ff63274eed0605385ac6a09bbae3aeca1408611cbd65f12
-✔ Tx completed

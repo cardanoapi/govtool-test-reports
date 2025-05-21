@@ -1,0 +1,3 @@
+✔ Uploaded Nikolas.jsonld metadata to bucket
+ℹ Waiting for tx completion: 089787c854dca9950fa526c1b5fa23126fe0cd42feb97049e6972da81bc6d00c
+✔ Tx completed

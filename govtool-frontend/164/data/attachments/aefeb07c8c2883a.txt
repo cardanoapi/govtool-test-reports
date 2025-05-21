@@ -1,3 +1,0 @@
-✔ Uploaded adulescens metadata to bucket
-ℹ Waiting for tx completion: 6d4b6a568f6715de6589eed6eadf12cd4561599ffe0891c5ae4843cf7634d834
-✔ Tx completed

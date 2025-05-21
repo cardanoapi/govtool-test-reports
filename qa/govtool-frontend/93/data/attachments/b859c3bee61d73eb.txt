@@ -1,0 +1,3 @@
+✔ Uploaded Drew.jsonld metadata to bucket
+ℹ Waiting for tx completion: 95d60a3f72409ba80c8b1a9b4340d8b2698db7acfc5df561506a5207df3f6edf
+✔ Tx completed

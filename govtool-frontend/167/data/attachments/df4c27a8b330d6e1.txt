@@ -1,6 +1,0 @@
-✔ Uploaded Vote_Context.jsonld metadata to bucket
-✖ Failed to load resource: the server responded with a status of 429 ()
-✖ TypeError: Cannot read properties of undefined (reading '@value')
-    at gQ4 (https://preview.gov.tools/assets/index-086IV3PU.js:245:11978)
-ℹ Waiting for tx completion: a61cd3737243ebd2467d9f94f7d84183e2e5a43971335978498e093e5434ecc6
-✔ Tx completed

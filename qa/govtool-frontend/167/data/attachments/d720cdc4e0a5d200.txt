@@ -1,0 +1,20 @@
+ℹ Retring the function
+✖ Access to XMLHttpRequest at 'https://p3000-z6b8d2f7a-z2f6a992f-gtw.z937eb260.rustrocks.fr/validate' from origin 'https://preview.gov.tools' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+✖ Failed to load resource: net::ERR_FAILED
+✖ Access to XMLHttpRequest at 'https://p3000-z6b8d2f7a-z2f6a992f-gtw.z937eb260.rustrocks.fr/validate' from origin 'https://preview.gov.tools' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+✖ Failed to load resource: net::ERR_FAILED
+✖ Access to XMLHttpRequest at 'https://p3000-z6b8d2f7a-z2f6a992f-gtw.z937eb260.rustrocks.fr/validate' from origin 'https://preview.gov.tools' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+✖ Failed to load resource: net::ERR_FAILED
+✖ Access to XMLHttpRequest at 'https://p3000-z6b8d2f7a-z2f6a992f-gtw.z937eb260.rustrocks.fr/validate' from origin 'https://preview.gov.tools' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+✖ Failed to load resource: net::ERR_FAILED
+✖ Access to XMLHttpRequest at 'https://p3000-z6b8d2f7a-z2f6a992f-gtw.z937eb260.rustrocks.fr/validate' from origin 'https://preview.gov.tools' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+✖ Failed to load resource: net::ERR_FAILED
+ℹ Retring the function
+✖ Xo
+ℹ Retring the function
+ℹ Retring the function
+ℹ Retring the function
+ℹ Retring the function
+ℹ Retring the function
+ℹ Retring the function
+ℹ Retring the function

@@ -1,0 +1,3 @@
+✔ Uploaded Keara.jsonld metadata to bucket
+ℹ Waiting for tx completion: 3f2f5716c3b7171f81f034d80edd5817cca191ac190ba7c0731945c35dec0f9d
+✔ Tx completed

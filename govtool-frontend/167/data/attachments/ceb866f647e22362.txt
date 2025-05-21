@@ -1,4 +1,0 @@
-✔ Uploaded guardrail-script metadata to bucket
-✔ Uploaded ultra metadata to bucket
-ℹ Waiting for tx completion: 8b43166ef3c9cf636e2473a0ef5c2fad926abf8c2825784e1b7da9c7975966ed
-✔ Tx completed

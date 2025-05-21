@@ -1,0 +1,3 @@
+✔ Uploaded Jason.jsonld metadata to bucket
+ℹ Waiting for tx completion: 8cc4c0406e549664e2127fe5959c8271b7cc472ffdf6a0bc42c3682dc29b9a38
+✔ Tx completed

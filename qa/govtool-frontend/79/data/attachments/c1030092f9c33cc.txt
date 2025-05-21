@@ -1,0 +1,3 @@
+✔ Uploaded Amanda.jsonld metadata to bucket
+ℹ Waiting for tx completion: 56f5e1385cb64f445ea9a352f967af6f57acd81e6a66e5ee6625429cd5105294
+✔ Tx completed

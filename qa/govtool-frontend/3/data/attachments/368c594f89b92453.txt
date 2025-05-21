@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"c804c39664f141dc9a5c02fa98f5c33ffe627f49342ec66566f09806aca69320","tx":{"outputs":[{"address":"addr_test1qpl3kclnp453vhy0d0cj6huxqpawnmuzgjltkt0p09r70ws8elpvg6wmhkmprnq4hstt5vt8ywc4vaamp69rx82m9zlqfjxxtt","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"582011abec096ef0ea7edbeeee01a1a3f0e9f24a7225c2ee99687fb328146fe85ba6"},"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"],"changeAddress":"addr_test1qz63slx7l0zmf8wuz76z8sre7pchwgdq8zp28vn9h4xp9cyq7vn27vqzw0ge6kj5r4zm4fpwhszzvkqkwddsy66lxjjqxnc9zk"}}
+✔ Tx submitted: 4350aa5c81cbdedde9f0f796c8937971b8b78304fb08975577cee122d3f88cbe
+ℹ Waiting for tx completion: 4350aa5c81cbdedde9f0f796c8937971b8b78304fb08975577cee122d3f88cbe
+✔ Tx completed
+✔ Uploaded Athena.jsonld metadata to bucket
+ℹ Waiting for tx completion: 20f6651f0ee1d98711a2e1f05989990547d643f2a9e7b7a709333e21383367b3
+✔ Tx completed

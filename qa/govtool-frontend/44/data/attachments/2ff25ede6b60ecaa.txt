@@ -1,0 +1,3 @@
+✔ Uploaded Mabel.jsonld metadata to bucket
+ℹ Waiting for tx completion: c1e8f5c7b3361aa17d5a975708fddeb791af1c299513263c8a87decbe96bd6cc
+✔ Tx completed

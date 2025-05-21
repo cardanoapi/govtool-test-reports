@@ -1,0 +1,3 @@
+✔ Uploaded Owen.jsonld metadata to bucket
+ℹ Waiting for tx completion: e81ea7e99030139d65112ef929b4af024c6daea290d58916ac20af83874b96fd
+✔ Tx completed

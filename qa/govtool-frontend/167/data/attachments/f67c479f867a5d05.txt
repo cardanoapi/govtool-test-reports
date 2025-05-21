@@ -1,0 +1,5 @@
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Uploaded Kylee.jsonld metadata to bucket
+ℹ Waiting for tx completion: ddf417ea8cad976059527ef7f6505b901b22c809537809e7f006edb75c94fe73
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Tx completed

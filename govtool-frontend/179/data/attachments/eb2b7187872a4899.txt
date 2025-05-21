@@ -1,6 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded Scarlett.jsonld metadata to bucket
-✖ Failed to load resource: the server responded with a status of 406 ()
-ℹ Waiting for tx completion: 2d8558d2d0751244a2662ea5f4b9021cfc53358e669059279cceb70aeaa8ce0b
-✔ Tx completed
-✖ Failed to load resource: the server responded with a status of 406 ()

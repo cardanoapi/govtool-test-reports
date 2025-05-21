@@ -1,5 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded guardrail-script metadata to bucket
-✔ Uploaded careo metadata to bucket
-ℹ Waiting for tx completion: cb7a9bd6a807af95724ffff773596ef61531881827a4b735b9a092bcb7bd57a8
-✔ Tx completed

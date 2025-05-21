@@ -1,8 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded Christian.jsonld metadata to bucket
-✖ Failed to load resource: the server responded with a status of 429 ()
-✖ Failed to load resource: the server responded with a status of 406 ()
-ℹ Waiting for tx completion: 0925e0f76c2baeffe28fe20d4b6e5f9da7639faf3679b87a3c534f0d81f096f5
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Tx completed

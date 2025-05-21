@@ -1,0 +1,3 @@
+✔ Uploaded Mafalda.jsonld metadata to bucket
+ℹ Waiting for tx completion: d4494e84a2717cb77a6f04c0cec24a31994dc71e7d077b5f994a58db1ad5469d
+✔ Tx completed

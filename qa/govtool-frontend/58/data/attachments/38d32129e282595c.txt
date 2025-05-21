@@ -1,0 +1,3 @@
+✔ Uploaded Dominique.jsonld metadata to bucket
+ℹ Waiting for tx completion: b6cfbccdd66a19d5c6b5efa9f26f5d899cc94e65e2836b91abe4e76f655c1dfe
+✔ Tx completed

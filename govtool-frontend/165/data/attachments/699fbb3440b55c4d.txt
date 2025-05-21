@@ -1,3 +1,0 @@
-✔ Uploaded sonitus metadata to bucket
-ℹ Waiting for tx completion: 489e6dc1f47d306fd0dcee87573f6222c7df700936125ecc764b1d315025ca48
-✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Valentine.jsonld metadata to bucket
+ℹ Waiting for tx completion: b749131597275bc44bbcb2248ba7d74533e90a36d31539e502bcfd5468440416
+✔ Tx completed

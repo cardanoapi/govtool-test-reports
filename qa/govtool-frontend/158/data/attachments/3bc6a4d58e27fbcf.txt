@@ -1,0 +1,3 @@
+✔ Uploaded Kristina.jsonld metadata to bucket
+ℹ Waiting for tx completion: 3c8df92d1f2a652d86da7e836e3cae95a2ca12c624d281eea9845095ff6975c1
+✔ Tx completed

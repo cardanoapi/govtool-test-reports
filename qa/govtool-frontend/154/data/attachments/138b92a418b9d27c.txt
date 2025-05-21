@@ -1,0 +1,3 @@
+✔ Uploaded Domenick.jsonld metadata to bucket
+ℹ Waiting for tx completion: 919d978ee4b326ad9faa09f7a1a030b85254fd4b4ac1de751c8aeda8db1b120a
+✔ Tx completed

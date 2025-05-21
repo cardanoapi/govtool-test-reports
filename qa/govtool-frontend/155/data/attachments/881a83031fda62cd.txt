@@ -1,0 +1,2 @@
+ℹ Waiting for tx completion: a5582c11f262e14f4f72551e806cb3488c4c30d5c0299d00dbf5bc2a605d4afe
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Bonita.jsonld metadata to bucket
+ℹ Waiting for tx completion: c2bc4e61152486f93cb8d0afcd85e8ee9d5d7d18e65c6b0ebefa4149134b1bee
+✔ Tx completed

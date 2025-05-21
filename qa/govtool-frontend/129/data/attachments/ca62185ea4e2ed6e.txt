@@ -1,0 +1,3 @@
+✔ Uploaded Charlotte.jsonld metadata to bucket
+ℹ Waiting for tx completion: 77b6b3f82970a9b2abb8e566c2bfff6593d2659e0cc47094b4c043ce58d745a3
+✔ Tx completed

@@ -1,5 +1,0 @@
-✔ Uploaded Stone metadata to bucket
-ℹ Submitting tx: {"lock_id":"de19745bd5192e4a431511ea7d0b4cccf1fa7b427a419683f23d14113ca974d4","tx":{"certificates":[{"type":"registerdrep","key":"529d99d74c927e39e22b044b2085c3d4fca201472a22a5053592984e","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Stone","dataHash":"5c380705ca43caaf3f5d76d9fb2a61abc743c2b2f9234a617a2933124b37171a"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820b101a0f998c12b4e8735e6fee6cfe0b07ee9da1434d217d54be6aeddf091dc1a"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
-✔ Tx submitted: 9cd242790e672ce191f7675df61893b4b7b4bc6bd70fb574364936bd9edd78ed
-ℹ Waiting for tx completion: 9cd242790e672ce191f7675df61893b4b7b4bc6bd70fb574364936bd9edd78ed
-✔ Tx completed

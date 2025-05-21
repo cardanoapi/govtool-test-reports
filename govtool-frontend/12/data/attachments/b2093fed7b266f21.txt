@@ -1,1 +1,0 @@
-✖ Failed to upload Info.jsonld metadata: TypeError: Only absolute URLs are supported

@@ -1,0 +1,3 @@
+✔ Uploaded Michel.jsonld metadata to bucket
+ℹ Waiting for tx completion: 21bc6c3f1984b9387ad7e5a34606d1fa909e889aa1836d2ddf3181006428c356
+✔ Tx completed

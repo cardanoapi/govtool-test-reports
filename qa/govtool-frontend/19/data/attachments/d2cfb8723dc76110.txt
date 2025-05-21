@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"ef1de46967f609de894a2d7001c7f227feb02ca8051e32828d73ca30c0133379","tx":{"outputs":[{"address":"addr_test1qq7hxwn4xk26u5y8rmukywnu54sly4vfl0a9pfycpu0ukvgc0fp0g95zl4vnvc5875fnpjlef335fdxmask25rztfg4stva9e5","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820e885f46ea9e5d80319fca180739ef4390cffed2ab676e2f61a6748d57bcd6733"},"addr_test1qpp8zvg42n0gdegtzad82ct55eheyyem2lv92x4vq6qn4wk3apzugmep4fwasevmqy2tmv2eukr5qkl92ffleexjsrcqhkem3m"],"changeAddress":"addr_test1qpp8zvg42n0gdegtzad82ct55eheyyem2lv92x4vq6qn4wk3apzugmep4fwasevmqy2tmv2eukr5qkl92ffleexjsrcqhkem3m"}}
+✔ Tx submitted: ffca52670c862eed820ba43faf86a70286fdd4572d2b4d295b76ab6a074bef50
+ℹ Waiting for tx completion: ffca52670c862eed820ba43faf86a70286fdd4572d2b4d295b76ab6a074bef50
+✔ Tx completed
+✔ Uploaded Carleton.jsonld metadata to bucket
+ℹ Waiting for tx completion: 45f5e11871be0e722d3988a822e07c530e51bced821af011b2ca65d445dfc678
+✔ Tx completed

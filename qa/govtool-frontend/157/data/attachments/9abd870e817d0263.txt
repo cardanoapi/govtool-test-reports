@@ -1,0 +1,3 @@
+✔ Uploaded Milton.jsonld metadata to bucket
+ℹ Waiting for tx completion: caffacb62860ff5b221d368c422234e2c39138f6621a4ade89bb0ea108485fac
+✔ Tx completed

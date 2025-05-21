@@ -1,0 +1,3 @@
+✔ Uploaded Iliana.jsonld metadata to bucket
+ℹ Waiting for tx completion: 140b61c6ee0e43486a25d78731625fd0e0dca1a8917984091f4bc7029187f8fe
+✔ Tx completed

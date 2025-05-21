@@ -1,0 +1,3 @@
+ℹ Waiting for tx completion: b16d5fe89c5fdf8e17fc467f5294fead7e4f1b965ea96e63e5670e662f069012
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Tx completed

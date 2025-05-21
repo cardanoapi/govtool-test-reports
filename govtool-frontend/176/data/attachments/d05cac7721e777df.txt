@@ -1,5 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded Webster.jsonld metadata to bucket
-✖ Failed to load resource: the server responded with a status of 406 ()
-ℹ Waiting for tx completion: 292eb91bcfff755975db3c9a864d32be238acfb3bbfa24b2122558672b90059b
-✔ Tx completed

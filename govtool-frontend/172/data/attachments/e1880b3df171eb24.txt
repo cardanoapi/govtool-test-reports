@@ -1,7 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✔ Uploaded Ricardo.jsonld metadata to bucket
-✖ Failed to load resource: the server responded with a status of 406 ()
-✖ Failed to load resource: the server responded with a status of 429 ()
-ℹ Waiting for tx completion: 2c4ebcdba255c498e5c789e180bc8e7fd4a6f598fe5d8ff37a8e82a54aa31f0d
-✖ Failed to load resource: the server responded with a status of 429 ()
-✔ Tx completed

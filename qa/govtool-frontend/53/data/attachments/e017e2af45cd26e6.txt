@@ -1,0 +1,3 @@
+✔ Uploaded Ansley.jsonld metadata to bucket
+ℹ Waiting for tx completion: 6c159c758fc7a0ec6aa673239544fa17a804966c30b355b57af7570ecc069f5a
+✔ Tx completed

@@ -1,0 +1,3 @@
+✔ Uploaded Cora_Shields79.jsonld metadata to bucket
+ℹ Waiting for tx completion: 76b3a1f10b89c8626c3dfbf6f5a07c856cee608c57f94d55bd2ecb1b65d412b6
+✔ Tx completed

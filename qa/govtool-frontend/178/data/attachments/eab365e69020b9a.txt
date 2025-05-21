@@ -1,0 +1,5 @@
+✔ Uploaded Cortney metadata to bucket
+ℹ Submitting tx: {"lock_id":"28580f96d63f9c58d32fafe8a9feda2374e766bc310a99bd070902597a01232c","tx":{"certificates":[{"type":"registerdrep","key":"0af832a76cc8b56b148de194e5fe817bb3305a23c17da7559ddf6146","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Cortney","dataHash":"6c70808e6f69c7664e83786544c79b65bd198e4789f642e6b2ec230aac8b6fb4"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820b49e8b32a45bd048dd4a30c98260fabe3605cf0eef29c939f63d5b7457aacce7"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 414885fa3a04fb2befce4daa7a4886be122fa1ddeae50cd0157c3e3c1bd23c26
+ℹ Waiting for tx completion: 414885fa3a04fb2befce4daa7a4886be122fa1ddeae50cd0157c3e3c1bd23c26
+✔ Tx completed

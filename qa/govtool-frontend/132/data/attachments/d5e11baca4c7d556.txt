@@ -1,0 +1,3 @@
+✔ Uploaded Crawford.jsonld metadata to bucket
+ℹ Waiting for tx completion: b63bd794c8761d30f4a0ac4a603e12fb5e2e16d6499a3d3bae8008738f754a6f
+✔ Tx completed

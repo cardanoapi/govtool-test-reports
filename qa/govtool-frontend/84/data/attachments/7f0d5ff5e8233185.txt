@@ -1,0 +1,3 @@
+✔ Uploaded Rudolph.jsonld metadata to bucket
+ℹ Waiting for tx completion: 96d6c4050332e012227e0dce8b43ad4fd892b35326fe47849068447fa77be255
+✔ Tx completed

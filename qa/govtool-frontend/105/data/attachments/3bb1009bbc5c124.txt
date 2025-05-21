@@ -1,0 +1,3 @@
+✔ Uploaded Anastacio.jsonld metadata to bucket
+ℹ Waiting for tx completion: 7a8c5f2d86a9880fbf05101d237539ff8477c5669d525b422ae7b160ce010a0d
+✔ Tx completed

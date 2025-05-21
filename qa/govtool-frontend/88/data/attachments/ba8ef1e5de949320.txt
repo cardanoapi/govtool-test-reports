@@ -1,0 +1,3 @@
+✔ Uploaded Gerson.jsonld metadata to bucket
+ℹ Waiting for tx completion: 7e3fd644d61eb0a902a23a064547752bac1bb00a9abdf55e00727d293158fac4
+✔ Tx completed

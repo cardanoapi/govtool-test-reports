@@ -1,0 +1,9 @@
+✔ Uploaded Immanuel.jsonld metadata to bucket
+ℹ Waiting for tx completion: 1798b6f1cddae27cb299659bd48e9aff3deb7eed20d7f245aa8ef05381480db1
+✖ expect(received).toBeGreaterThan(expected)
+
+Expected: > 0
+Received:   0
+
+Call Log:
+- Test timeout of 30000ms exceeded

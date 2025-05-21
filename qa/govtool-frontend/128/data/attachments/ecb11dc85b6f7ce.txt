@@ -1,0 +1,3 @@
+✔ Uploaded Alexandra.jsonld metadata to bucket
+ℹ Waiting for tx completion: 2bf1e726de4ec04984e1ab1556d46d37691d4d3c966483df08ff9ba83af6f66c
+✔ Tx completed

@@ -1,0 +1,9 @@
+✔ Uploaded data.jsonld metadata to bucket
+ℹ Waiting for tx completion: b891887f5d29b60f75f1ca135696c92cb78bc43580362274a9bde6124328c14c
+✖ expect(received).toBeGreaterThan(expected)
+
+Expected: > 0
+Received:   0
+
+Call Log:
+- Timeout 960000ms exceeded while waiting on the predicate

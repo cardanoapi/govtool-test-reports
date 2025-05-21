@@ -1,3 +1,0 @@
-✔ Uploaded ambitus metadata to bucket
-ℹ Waiting for tx completion: ca73474398709a6d7c50dcdf4e9f66dabc05a47deb3fbcbe7eaf7ae96327a423
-✔ Tx completed

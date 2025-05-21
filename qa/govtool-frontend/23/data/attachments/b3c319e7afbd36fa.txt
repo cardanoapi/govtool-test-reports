@@ -1,0 +1,3 @@
+✔ Uploaded Dangelo.Huel.jsonld metadata to bucket
+ℹ Waiting for tx completion: e0688f6f67306a5af7b0552f33bc9a6f0ba2f65030cfc9520f535b72e06cec27
+✔ Tx completed

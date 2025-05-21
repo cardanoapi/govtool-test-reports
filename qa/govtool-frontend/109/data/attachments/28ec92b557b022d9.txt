@@ -1,0 +1,3 @@
+✔ Uploaded Fernando.jsonld metadata to bucket
+ℹ Waiting for tx completion: d0e7a61cab8774c970221b1ba92547e844e3867e80fa49e38473812553028af6
+✔ Tx completed

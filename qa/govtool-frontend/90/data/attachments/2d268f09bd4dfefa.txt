@@ -1,0 +1,3 @@
+✔ Uploaded Tatum.jsonld metadata to bucket
+ℹ Waiting for tx completion: cd3688e39322215605e0b712ab67007e8fd888fc1660ebf040ef1adf6d7a6c19
+✔ Tx completed

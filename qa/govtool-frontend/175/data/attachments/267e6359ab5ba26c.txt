@@ -1,0 +1,9 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Ettie.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: d1d6375c45f9e8757ef7eb230f0890529bae84cef346ccf5c7416716c929e9c6
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Tx completed

@@ -1,0 +1,7 @@
+ℹ Submitting tx: {"lock_id":"466507b1ea1ea7a5b0309593aa3381db9c358b717aeebc2024297e0b030ae779","tx":{"outputs":[{"address":"addr_test1qp7q03t5e3sl0axwn59jqw0khg7gz54e9mtlyncl7vdeywa5fjjpwx3mxs0jjx7jeq2dx6l0eemnzv0xcgry32cfaezs7w9dn5","value":"600A"}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"5820d68b122c16aae7ae645c1800368b1e43a744498745e3322bd05ddbcce5320a89"},"addr_test1qq5vwxwg3erzu00fe3a4nct0kj4cvnunqtn90hjtfg5j3f2l7sn8wfuzjvs7pu9ql6lqzkng5dacjpdfts5sqcks507q6hc2xs"],"changeAddress":"addr_test1qq5vwxwg3erzu00fe3a4nct0kj4cvnunqtn90hjtfg5j3f2l7sn8wfuzjvs7pu9ql6lqzkng5dacjpdfts5sqcks507q6hc2xs"}}
+✔ Tx submitted: 30f3972d7d40b0317101431d58a8048889f603157df12748068d1079d75e1f6e
+ℹ Waiting for tx completion: 30f3972d7d40b0317101431d58a8048889f603157df12748068d1079d75e1f6e
+✔ Tx completed
+✔ Uploaded Amina.jsonld metadata to bucket
+ℹ Waiting for tx completion: 4c3acc23bdf313dfb01d7e8c0b3ecaefa000e6d34b62f4222cfe36960fde75b6
+✔ Tx completed

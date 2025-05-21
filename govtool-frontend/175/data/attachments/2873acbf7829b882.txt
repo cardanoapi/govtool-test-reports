@@ -1,6 +1,0 @@
-✖ Failed to load resource: the server responded with a status of 406 ()
-✖ Failed to load resource: the server responded with a status of 429 ()
-✖ Failed to load resource: the server responded with a status of 429 ()
-✔ Uploaded deduco metadata to bucket
-ℹ Waiting for tx completion: 2808a3b48c2e2b31795af14b9d4289e1724d79983ec7d5216c5f064f5223b7e9
-✔ Tx completed

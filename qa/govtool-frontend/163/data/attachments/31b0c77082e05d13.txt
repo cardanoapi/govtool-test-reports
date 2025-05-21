@@ -1,0 +1,3 @@
+✔ Uploaded Jewel.jsonld metadata to bucket
+ℹ Waiting for tx completion: 9f7aca740d80a104e106bd4ebcc72c886a59db2e7b71c4c8ed0f6d9424aaebba
+✔ Tx completed

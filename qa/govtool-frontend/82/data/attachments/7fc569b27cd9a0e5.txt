@@ -1,0 +1,3 @@
+✔ Uploaded Yoshiko.jsonld metadata to bucket
+ℹ Waiting for tx completion: b8eb2fb27edb4ae001b2ba9f7608432c825142b514a86a1c5cd6464d7062aab3
+✔ Tx completed

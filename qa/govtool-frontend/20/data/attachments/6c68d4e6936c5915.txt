@@ -1,0 +1,3 @@
+✔ Uploaded Claudia65.jsonld metadata to bucket
+ℹ Waiting for tx completion: 1f48e23852227e639e2f019db4680de6743b0745583243becfd431019da8f90a
+✔ Tx completed

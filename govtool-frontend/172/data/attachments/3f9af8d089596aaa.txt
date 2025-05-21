@@ -1,5 +1,0 @@
-✔ Uploaded Ronny metadata to bucket
-ℹ Submitting tx: {"lock_id":"bfb0bb835044824655b543c8d81c0248ebf74c0357b56e2a6f77f809534e512e","tx":{"certificates":[{"type":"registerdrep","key":"6332fda378347783d9553597b83b641c21473b89c938ed15b0c88e32","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Ronny","dataHash":"d5469641e92fe7eff096fcab487ebddaedae80f286d18335e1a257c25b0a05ab"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58209ef54cd42cdb4220d08e13244684ff5b118890c937cb797557a77897e866fdfb"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
-✔ Tx submitted: 84a9d6501c85d148470ef1d26460d33b4a1ad68c8fce476e1cf203df5d5f5b93
-ℹ Waiting for tx completion: 84a9d6501c85d148470ef1d26460d33b4a1ad68c8fce476e1cf203df5d5f5b93
-✔ Tx completed
