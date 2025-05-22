@@ -1,0 +1,5 @@
+✔ Uploaded Dayna metadata to bucket
+ℹ Submitting tx: {"lock_id":"773851d30d2c4ba82305d9c3cc5dce66590befa26af81ce1527541c5656dd642","tx":{"certificates":[{"type":"registerdrep","key":"bb898bb5fb7a87e785b57e778da4c017517bc7fcd39526221c2003bb","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Dayna","dataHash":"86648cc2aba8d9c78f159fb237b34c9481617e237ec9b99e75df4c6964853727"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820a0f69c54cb1c6c29ef2fbf9db7bec78a06cbede47d77846588e909dbacde6bec"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 7ec8c24eaab4e5af312b60d87c71effd2374c855a80b102cd74675a03b3ef3b9
+ℹ Waiting for tx completion: 7ec8c24eaab4e5af312b60d87c71effd2374c855a80b102cd74675a03b3ef3b9
+✔ Tx completed

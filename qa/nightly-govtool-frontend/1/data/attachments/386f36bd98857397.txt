@@ -1,0 +1,7 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Dorthy.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: f1223c69c4a3bdb350d38459a3d4a82cc75c678ef635e3c2c913e55949fae21c
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()
