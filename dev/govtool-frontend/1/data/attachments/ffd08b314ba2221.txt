@@ -1,0 +1,17 @@
+ℹ Retring the function 
+ℹ Retring the function 
+ℹ Retring the function 
+ℹ Retring the function 
+✔ Uploaded Kristopher metadata to bucket
+ℹ Submitting tx: {"lock_id":"16c366267cb9a74ec9cd2975a58ef78149699bd2e8cdbb6c5b2ca113ad530dd6","tx":{"certificates":[{"type":"registerdrep","key":"a97ef47c517fc017c8588afe05ede0328973fea9f435eb26b91bc6f3","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Kristopher","dataHash":"aba02c55b63f34f88af2e5f72c92e5ef886c5e85494d9d05fe6fcf6cfa76ef78"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58201c289f25d0c9faad623ea012defe0c419a342096c41d330202026f10cc05e2b2"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 7b3a80a5797351c9623d7b8eb89ba1dfed9a0bce94494f6681eda738e66ce574
+ℹ Waiting for tx completion: 7b3a80a5797351c9623d7b8eb89ba1dfed9a0bce94494f6681eda738e66ce574
+✖ Failed due to Error: expect(received).toBeGreaterThan(expected)
+
+Matcher error: received value must be a number or bigint
+
+Received has value: undefined
+
+Call Log:
+- Test timeout of 240000ms exceeded
+ℹ Retring the function pollTransaction
