@@ -1,0 +1,8 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Sanford.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+ℹ Waiting for tx completion: abbb0185ec3f4951e3cab64498ead7543ea65c0a32e1741dde3352a66b70dd41
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Tx completed

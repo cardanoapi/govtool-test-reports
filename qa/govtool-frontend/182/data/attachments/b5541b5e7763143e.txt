@@ -1,0 +1,5 @@
+✔ Uploaded Zola metadata to bucket
+ℹ Submitting tx: {"lock_id":"646fddcf9b49670807441b8ee1ee64c2511796e5eb6ea6bd9332c612990fd152","tx":{"certificates":[{"type":"registerdrep","key":"cc3579b96478e5f7ec4e46f205090edc311fffe0e7f3c02de66d6e63","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Zola","dataHash":"057c8d26207e275138931e56d5bfa7e6ef09a1143da930c1ccfeae83e68264b0"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58207c61034032e70f36fd4c2bbc9a19a611ba765faf0a7b721e5189e374f95b2352"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 772ce3d1ff0c70fa46aa1afcef51c708304667ae948c499a949534997e8dfb9f
+ℹ Waiting for tx completion: 772ce3d1ff0c70fa46aa1afcef51c708304667ae948c499a949534997e8dfb9f
+✔ Tx completed

@@ -1,0 +1,9 @@
+wallet balance 100022
+wallet address addr_test1qzvpr6v8g2preja5m52qpw3w3nnw55859nk3arnfgxuu3tjwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjs8vx5ww
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+Username is already set
+✔ Uploaded tredecim metadata to bucket
+ℹ Waiting for tx completion: 94cfd5265a53c14e4f79c229b4c3c3af80185fb0505fcdd0488a15c983ab8e62
+✔ Tx completed
