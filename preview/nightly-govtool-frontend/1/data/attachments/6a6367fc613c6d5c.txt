@@ -1,0 +1,5 @@
+✔ Uploaded Anabel metadata to bucket
+ℹ Submitting tx: {"lock_id":"0f65c47eb5463491feea8b0cce0f92382825422bcb35a5619b7574bc1e71893f","tx":{"certificates":[{"type":"registerdrep","key":"a2a318f82cff79304cf2f0c722b36b9724ca6546a4d313bda5ed7b4e","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Anabel","dataHash":"991e59da40a3738294d8c880d4a35f3040c21a9a09b1640d41db3b6dd532b990"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820b46586c3c1de852a1124a9632f34e143059688b20e39d84dd45ecd2b65f68c9b"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: f8d15d6fb614372132137af7faf94411a43da0bbff153a98a6bc1e9ce8b6e325
+ℹ Waiting for tx completion: f8d15d6fb614372132137af7faf94411a43da0bbff153a98a6bc1e9ce8b6e325
+✔ Tx completed
