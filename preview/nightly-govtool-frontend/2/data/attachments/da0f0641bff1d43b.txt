@@ -1,0 +1,5 @@
+✔ Uploaded Susie metadata to bucket
+ℹ Submitting tx: {"lock_id":"99aa5c6140a5db2d121fc82c6fdea9f7fb81944f84527fbe668d095354e7fb4e","tx":{"certificates":[{"type":"registerdrep","key":"848f3f35db661f62d8589997571a0941a746731a81449398b19686d4","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Susie","dataHash":"f90780b2158c7684c46ff192906a9dda836d01e638d4c32eec130fe72bf4cb70"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58203c982599ebaed1c4decaf58a56836ac4153a812a26d7fcf5999a741de4d21689"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: a91c23fb9ee4c0e81fb1aadfb80b273a18d26c8b1b8774631801107a14250083
+ℹ Waiting for tx completion: a91c23fb9ee4c0e81fb1aadfb80b273a18d26c8b1b8774631801107a14250083
+✔ Tx completed

@@ -1,0 +1,6 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Kiana.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: e01632fb1f7ae5f87b0c7aafd7bd4cb51af5fafecc2dadd14f253c46ac2ada37
+✔ Tx completed

@@ -1,0 +1,8 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Blair.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: d659f01deeab000c910a13b2caa43ce6b44258dcaaf5cc545286984a088d844b
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()
