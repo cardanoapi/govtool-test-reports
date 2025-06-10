@@ -1,0 +1,8 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Natasha.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: b9483d493d290db93319a53c4abcdb9b0dd9df7ade4fab630c2d6ec0b3f36dde
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()

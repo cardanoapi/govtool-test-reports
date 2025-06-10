@@ -1,0 +1,5 @@
+✔ Uploaded Chanelle metadata to bucket
+ℹ Submitting tx: {"lock_id":"b47f2b2f23c6522f019d5ab0f734bf5412806e0fa21031ded69b72825831eb5c","tx":{"certificates":[{"type":"registerdrep","key":"a1b8893f5789587fca4287d724818022f422177e2895680075cc2325","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Chanelle","dataHash":"1b88b55fb6c4b028941142ba62da9865acf0bbe4f82ebc431bde28d06c8abc69"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820922ff9c96fe86f681fc6a2f237f936af21d2af07bfcd03aea7f9b84ca748518b"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: aaa35cb2ea352efa8f2871978921040228aa9bc30c68728ae0ab0e4cf063ba40
+ℹ Waiting for tx completion: aaa35cb2ea352efa8f2871978921040228aa9bc30c68728ae0ab0e4cf063ba40
+✔ Tx completed

@@ -1,0 +1,6 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Nikko.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: 591e921a08652fcf9d1a4c3ac1d6fc758cc65b24eb7c9c83cb0a889209db2f52
+✔ Tx completed
