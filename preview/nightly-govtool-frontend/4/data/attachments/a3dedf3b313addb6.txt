@@ -1,0 +1,5 @@
+✔ Uploaded Eunice metadata to bucket
+ℹ Submitting tx: {"lock_id":"25fefa3d91713b3000b5b0ba2ee153422e2ab50f0160e3120d3dc5d9cfe2f3bb","tx":{"certificates":[{"type":"registerdrep","key":"45b14ca437506eee19119fff17c81c868ff6605867080a348609ad49","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Eunice","dataHash":"0dfe1f6e4723c10f98dc7e34f2530781f854bf7480c0c1193cf6b359a0ea6b0b"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58207b215562cbfb1bb9115f0c95f076aad65ec42d197346999f8fdc5d91907db853"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 6cd742b093682fb016e709923c52d9dc90d8eb635fdd8c738337fd4c30c088a4
+ℹ Waiting for tx completion: 6cd742b093682fb016e709923c52d9dc90d8eb635fdd8c738337fd4c30c088a4
+✔ Tx completed

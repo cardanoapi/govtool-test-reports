@@ -1,0 +1,8 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Sydnie.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: a19e440a99aafb6922683afa9834fb74f2cce3bfdffe6a1f572c00edf062f59f
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()

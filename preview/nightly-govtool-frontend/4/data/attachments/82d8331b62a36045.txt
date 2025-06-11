@@ -1,0 +1,7 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Nicholaus.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: fe9195ca5c1d4e212b6cf6689eb8743cd3f263178b6816ef8ed3541cb2c97979
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Tx completed
