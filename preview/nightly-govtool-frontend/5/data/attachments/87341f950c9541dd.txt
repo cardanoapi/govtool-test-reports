@@ -1,0 +1,9 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Vote_Context.jsonld metadata to bucket
+✖ Access to XMLHttpRequest at 'https://metadata.preview.gov.tools/validate' from origin 'https://preview.gov.tools' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+✖ Pv
+✖ Failed to load resource: net::ERR_FAILED
+✖ Failed to load resource: the server responded with a status of 429 ()
+ℹ Waiting for tx completion: b8958b258346a5422eb628a7c90d773d723ad604ffbdb4bed68fce83a124ebfd
+✔ Tx completed

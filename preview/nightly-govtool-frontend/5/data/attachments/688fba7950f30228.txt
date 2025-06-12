@@ -1,0 +1,5 @@
+✔ Uploaded Kole metadata to bucket
+ℹ Submitting tx: {"lock_id":"a0fd83bab833762db9e4553339ea4e6c691ba63dd0f873564b843eed65c538cd","tx":{"certificates":[{"type":"registerdrep","key":"315c18196e885b8b6a64feaa18106737a7cd4062862fd6d21ae4b2df","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Kole","dataHash":"b51e006ac61dc524e082e8b77969ce80c8e75d8ec2446bbe3815e5937a10a5ba"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"582082a42ee820ae602eaf83d9556c4d5879e5f0360f1cac06b7985cedac794fa7c6"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 4b83cd966072283b76171045fe6c4a10927a095c8c5a0eb76d1606f52a701964
+ℹ Waiting for tx completion: 4b83cd966072283b76171045fe6c4a10927a095c8c5a0eb76d1606f52a701964
+✔ Tx completed

@@ -1,0 +1,8 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Helena.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: 3f4ac0d95dd6032650d079fc8553a34da3db6c00377b489311c991bcd1714298
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()
