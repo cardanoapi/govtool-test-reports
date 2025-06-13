@@ -1,0 +1,6 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Leslie.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: b79a8a00ce65f4e679d4634ff0d7d6e1afa39c6fa5fd9c19685f7a7d85e86c88
+✔ Tx completed

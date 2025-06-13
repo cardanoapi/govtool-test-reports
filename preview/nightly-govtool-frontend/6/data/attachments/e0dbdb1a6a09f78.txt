@@ -1,0 +1,8 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Valentin.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: 996d687fa7b7e4c2be2cfd24efe2eb7feca43e9e46df08952c8005e4e275715c
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()

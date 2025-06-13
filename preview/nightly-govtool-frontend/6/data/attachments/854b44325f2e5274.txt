@@ -1,0 +1,5 @@
+✔ Uploaded Emile metadata to bucket
+ℹ Submitting tx: {"lock_id":"935dfbd7bf7815d1a7d17b737d3ad77d1b619ca9ecbb071dc78a4481bd9fdd0c","tx":{"certificates":[{"type":"registerdrep","key":"128b908f84daf426cf8bb336349264bbb2a43adda4946a8cba552691","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Emile","dataHash":"a7e0c4c9ebc46cde60f5dc5b3b61a97c3122b195efe032d9aab080025e7af6c4"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820fa0e024dcb39ef6b9c89b69d308126e14202d4f4ea03470eeb0ee8dbbe0eedd5"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 0c431e05a05a2098a4da2b22fdcb5a811158525b636b916dde814d1567355453
+ℹ Waiting for tx completion: 0c431e05a05a2098a4da2b22fdcb5a811158525b636b916dde814d1567355453
+✔ Tx completed
