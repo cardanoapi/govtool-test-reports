@@ -1,0 +1,8 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Luisa.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: 8ddf3430e06893bbf4d96c2d1913c68e660af4aa9dfdbfcdd42ebbda0121c029
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()

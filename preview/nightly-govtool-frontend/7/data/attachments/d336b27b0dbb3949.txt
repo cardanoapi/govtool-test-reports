@@ -1,0 +1,5 @@
+✔ Uploaded Elisa metadata to bucket
+ℹ Submitting tx: {"lock_id":"4fd212bdb4203bf3ae6ea94c20789ecd09d7dbb1c84dd2bad1b1478a83b8686d","tx":{"certificates":[{"type":"registerdrep","key":"604aac147ee1f7e4a001c6f78cdf1101d8a404e0e859bbad0af31566","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Elisa","dataHash":"3bd4d31a89d2249af1ecda1153d69fb6f1a28116fee2dc04951268b4de3e371c"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820784fb7f92033fd176afc288a34c31a4c9351b46096659bca765cd911b5e60a08"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: e72da3e0c8df7ce8cdd93b3bb858ec202ae883cfc817c66ccf0d187162691d83
+ℹ Waiting for tx completion: e72da3e0c8df7ce8cdd93b3bb858ec202ae883cfc817c66ccf0d187162691d83
+✔ Tx completed
