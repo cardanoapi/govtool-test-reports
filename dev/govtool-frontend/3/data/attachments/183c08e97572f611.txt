@@ -1,0 +1,5 @@
+✔ Uploaded Bernita metadata to bucket
+ℹ Submitting tx: {"lock_id":"9a85c759a9cedcf7a5c41b90baf38ea647e49fbfc02477faa55814acbc97b95d","tx":{"certificates":[{"type":"registerdrep","key":"3824c2404a44c8d5b2c324d452a301e4e559a3846360f0ebb3a4e09d","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Bernita","dataHash":"608a530ac2d7bf27bc308d8b33fbb171aa22bdb83ef2a99b8d96e7d279a4ed61"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"582057bdf385f380d8cd488987d3c9e16f786c93523b4e4d6c4fe453e83c7ae1a9f5"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 780e0680de4699344b6e6ffc69cfbe6d2bec4b3d31a0b1bec4a56c44fd1b54d2
+ℹ Waiting for tx completion: 780e0680de4699344b6e6ffc69cfbe6d2bec4b3d31a0b1bec4a56c44fd1b54d2
+✔ Tx completed

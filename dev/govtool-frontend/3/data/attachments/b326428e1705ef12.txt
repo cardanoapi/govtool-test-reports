@@ -1,0 +1,9 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Blaise.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+ℹ Waiting for tx completion: 78c71af36247cb5597e4ebdfedf9bd6c752bde9a53e7451dbc261a3733c2a7cb
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 429 ()
