@@ -1,0 +1,8 @@
+wallet balance 100022
+wallet address addr_test1qrsmq7748snf4wmj0ux3mwhshq307lmzg7sx35kl78alqajwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjs5hlp63
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+Username is already set
+4
+✔ Uploaded cribro metadata to bucket

@@ -1,0 +1,5 @@
+✔ Uploaded Linda metadata to bucket
+ℹ Submitting tx: {"lock_id":"57e26814b43423c31e5e5d91e15f264443885725264587a087c5293d4eeaec83","tx":{"certificates":[{"type":"registerdrep","key":"ae4725fd6c7ba8daee7b2747119e26fea9874a908afab2b7e380e4bf","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Linda","dataHash":"6f849ab16964260d9e6540b386bc48b7801cf0288f49ec4b2e2fba3db48b2e56"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820a0e01eec50895394fb5c5c74612e034ffe74d70de5fb096159bbd33edc367529"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: b3b00cf6faae62b32e81d17f4d24e8ddae20deae756ca0f5aa721b0d3b2fc36d
+ℹ Waiting for tx completion: b3b00cf6faae62b32e81d17f4d24e8ddae20deae756ca0f5aa721b0d3b2fc36d
+✔ Tx completed

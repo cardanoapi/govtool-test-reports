@@ -1,0 +1,8 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Napoleon.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+ℹ Waiting for tx completion: b31a5c780905697c8d0384750b632734ae1475cc2d3f918b68a51f74bef2aa2b
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Tx completed
