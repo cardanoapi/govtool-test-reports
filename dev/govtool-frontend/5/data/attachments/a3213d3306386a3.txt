@@ -1,0 +1,5 @@
+✔ Uploaded Ora metadata to bucket
+ℹ Submitting tx: {"lock_id":"16d549f8587b7ea16ab9b7c5e99e54f1dd31d3b3b428b662d60accb11d190f6f","tx":{"certificates":[{"type":"registerdrep","key":"16e82d467c196412230751a8d47bd6a4323127180478c6b24c7b3add","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Ora","dataHash":"d2c8bafe7db4a42d9ee0900d6492c4b1615f327010bf97621acd32c65ecf7286"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820ea1d3f80b5a162f4f21dc7e80deb59dec9ac4df474f26f315d013daaea1eb09e"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 71f8f8c63601e87e6bdd4db600319498ae3372a4c59946c56a07be1d371b00ee
+ℹ Waiting for tx completion: 71f8f8c63601e87e6bdd4db600319498ae3372a4c59946c56a07be1d371b00ee
+✔ Tx completed

@@ -1,0 +1,10 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Mortimer.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+ℹ Waiting for tx completion: 6accdf45e9c6b75e6c53a84c5819d04a12da0c1bf37cfa067385fb8029971c66
+✔ Tx completed
+✖ Failed to load resource: the server responded with a status of 406 ()

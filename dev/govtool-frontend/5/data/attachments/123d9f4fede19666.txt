@@ -1,0 +1,8 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Concepcion.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+ℹ Waiting for tx completion: e827f490c1e14425d7329f6db4fb8690d969ef8bbdeda39d9a958ffdcc8380ef
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Tx completed

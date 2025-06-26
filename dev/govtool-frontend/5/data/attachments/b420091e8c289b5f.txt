@@ -1,0 +1,10 @@
+wallet balance 100022
+wallet address addr_test1qr5fu4xqnj3zmem9pc6dt2fpsldvdff88rl52szh8sae3d6wvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjsatdy95
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+Username is already set
+1
+✔ Uploaded canto metadata to bucket
+ℹ Waiting for tx completion: 421ea2339585762adbc002b93acb07dd08009c4114d4b87cc32cb450d9ae785c
+✔ Tx completed
