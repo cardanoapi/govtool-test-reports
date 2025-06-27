@@ -1,0 +1,5 @@
+✔ Uploaded Felicia metadata to bucket
+ℹ Submitting tx: {"lock_id":"ac4fee44881af2874c14d6d461495736b79164d43f653db161040e08bf72e9af","tx":{"certificates":[{"type":"registerdrep","key":"3625de4201425386e6138b4326aed94da45d541a75f056ab48f5244b","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Felicia","dataHash":"5ccfe0a16a41c9e06d5f0573fe0e7c292e10b7c2d83f1bb398fb2a14a6708efc"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"58203cf579ac9fcea578848d7864d54417cb9d28be676a4d82678c40793ec97c0692"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: 18266467f991fdb69d7fbe74e26dde2194310c7d64f1c1a99ba5b97c0645e4ff
+ℹ Waiting for tx completion: 18266467f991fdb69d7fbe74e26dde2194310c7d64f1c1a99ba5b97c0645e4ff
+✔ Tx completed
