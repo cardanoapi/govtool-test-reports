@@ -1,0 +1,10 @@
+wallet balance 100022
+wallet address addr_test1qzj4tps9m6gtzfafvk8pptgfkd9hp84s3zej08envhqg882wvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjs6898wu
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+Username is already set
+0
+✔ Uploaded quaerat metadata to bucket
+ℹ Waiting for tx completion: c9b1053d70dcd7a3f8df23ccfff2b475b98384a1b22ea7aceea96645aff4c175
+✔ Tx completed

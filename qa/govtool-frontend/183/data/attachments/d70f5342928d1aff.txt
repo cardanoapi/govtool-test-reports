@@ -1,0 +1,5 @@
+✔ Uploaded Gordon metadata to bucket
+ℹ Submitting tx: {"lock_id":"f36ffb39be3e939d63b48bcdbad5d6d24c53d7fdee2fc3832433ffd24dd64e44","tx":{"certificates":[{"type":"registerdrep","key":"aa63a2e94c610a043fee7163d5416c3c1ca32d53716a5fc93a36eafe","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Gordon","dataHash":"322e62d62e6db8d79df732992e65e46b538e6928f25bd34b608b607d803035d2"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"582050967dd88db75d101809cf61a75f838f574544aed5683736ba0d7f4010e0ee93"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: b4028aeec1103089be91c5831766497d3b6b7c0ff4fded8cbe0ace5d24237a1c
+ℹ Waiting for tx completion: b4028aeec1103089be91c5831766497d3b6b7c0ff4fded8cbe0ace5d24237a1c
+✔ Tx completed

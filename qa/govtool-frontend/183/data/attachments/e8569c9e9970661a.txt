@@ -1,0 +1,9 @@
+wallet balance 100022
+wallet address addr_test1qp60ax3qe3hv949zj9akyk607jevtkgm8nf9fnsw6sf4rwzwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjs93hqjr
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+Username is already set
+3
+✔ Uploaded vilicus metadata to bucket
+✖ Failed to load resource: the server responded with a status of 400 ()

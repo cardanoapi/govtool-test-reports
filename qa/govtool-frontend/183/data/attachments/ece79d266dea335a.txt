@@ -1,0 +1,10 @@
+wallet balance 100022
+wallet address addr_test1qqj3f2nypg0eyd8jlhv0vx78qpz5dthn8l9tp2seas6fr42wvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjsww48p8
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+Username is already set
+1
+✔ Uploaded ullam metadata to bucket
+ℹ Waiting for tx completion: 290e91d374e6e9d70272ab194a45ba9e0d287fc44449e9914e2665ab220ed1d0
+✔ Tx completed
