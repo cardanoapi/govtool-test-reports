@@ -1,0 +1,8 @@
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+✔ Uploaded Mina.jsonld metadata to bucket
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 406 ()
+ℹ Waiting for tx completion: 435a29613df73262750ff3f14305960167dfccd694d4dce8b078ff0af86f5518
+✖ Failed to load resource: the server responded with a status of 429 ()
+✔ Tx completed

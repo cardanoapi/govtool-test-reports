@@ -1,0 +1,10 @@
+wallet balance 100022
+wallet address addr_test1qzva8jya5cx4ghu5uxmncz0ecfnq8ja2j82mndnlz4tej0jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjst5enjc
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+Username is already set
+0
+✔ Uploaded excepturi metadata to bucket
+ℹ Waiting for tx completion: 29a40362f7360072ea0f9cb22a037464c9382b20141fe8b0a949d93d99c461af
+✔ Tx completed

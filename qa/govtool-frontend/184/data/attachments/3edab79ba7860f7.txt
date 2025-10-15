@@ -1,0 +1,10 @@
+wallet balance 100022
+wallet address addr_test1qqx8vv8yqenrntzqy2pgpy7wzzprr7sx78amh9krtzncks2wvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjslve4nk
+✖ Failed to load resource: the server responded with a status of 406 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+✖ Failed to load resource: the server responded with a status of 429 ()
+Username is already set
+1
+✔ Uploaded depromo metadata to bucket
+ℹ Waiting for tx completion: a3c44a72df26ead9d7a73bd68ac84f32b1a051cb62b1617a172962c8ed951b51
+✔ Tx completed

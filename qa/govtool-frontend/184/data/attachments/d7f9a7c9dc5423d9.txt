@@ -1,0 +1,5 @@
+✔ Uploaded Blair metadata to bucket
+ℹ Submitting tx: {"lock_id":"f03f7bdb30ae23faef1d82d5adcc725c5d8322448bcf9bbcdab07d4b7ce53176","tx":{"certificates":[{"type":"registerdrep","key":"b0e8ffcde7bac4b0de6e1f1d55475fdc3e1ff1cf49d8532e9f7f5075","anchor":{"url":"https://metadata-govtool.cardanoapi.io/data/Blair","dataHash":"07e071fa4946a8b7a780acdf18e8d869868a5e373ad6d01f600a11d6cc30057a"}}],"selections":[{"type":"PaymentSigningKeyShelley_ed25519","description":"Stake Signing Key","cborHex":"5820b5cfa006a326bfb7b32bbdf455e700ec7613c56a2de87b33d1c16ebc11ab56ba"},{"type":"PaymentSigningKeyShelley_ed25519","description":"Payment Signing Key","cborHex":"58207c0ea07b5eb00a808de0735aa8e093ad0f257c293efbe3c5a44948eeeff38baf"},"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"],"changeAddress":"addr_test1qz3hqauh86zjg2c3wdqueava97mc4llr5pv5fvyfcgjc84jwvs0cxwl8qfkejj8ld2mp0ygjx9n2rjz0tr75w2ntxwjspd08dd"}}
+✔ Tx submitted: cce3070b720a2dfeade13d2d22e2cc2de928c97a762a23d0979417aef5d623b3
+ℹ Waiting for tx completion: cce3070b720a2dfeade13d2d22e2cc2de928c97a762a23d0979417aef5d623b3
+✔ Tx completed
